@@ -1,0 +1,42 @@
+{
+  "date": "2026-04-08",
+  "updatedAt": "2026-04-08T20:13:49+08:00",
+  "sentiment": {
+    "score": 52,
+    "label": "中性"
+  },
+  "risk": {
+    "score": 80,
+    "level": "high"
+  },
+  "trafficLights": {
+    "red": 1,
+    "yellow": 3,
+    "green": 3
+  },
+  "coreEvent": "美伊停火震动全球市场——油价暴跌创近六年最大单日跌幅，亚太股市集体暴涨",
+  "usMarkets": {
+    "sp500": {
+      "price": 6616.85,
+      "change": 0.08
+    },
+    "nasdaq": {
+      "price": 22017.85,
+      "change": 0.1
+    },
+    "vix": {
+      "price": 20.4,
+      "change": 15.6
+    }
+  },
+  "topMovers": [
+    {
+      "name": "GOOGL",
+      "change": 3.95,
+      "reason": ""
+    }
+  ],
+  "smartMoneySummary": "ARK Invest: 4/6-4/7连续两日买入TSLA合计$16.5M(跨ARK…；Bill Ackman / Pershing Square: 提出$644亿收购环球音乐集团(UMG)，UMG股价当日飙涨…；UBS: 因伊朗战争不确定性下调2026年标普500年终目标价从770…",
+  "actionSummary": "停火窗口期油价快速回落，若布伦特跌破$90回到绿灯区间，将系统性改善全年估值中枢——值得密切关注能源…",
+  "briefingUrl": "archive/2026-04-08/briefing.md"
+}

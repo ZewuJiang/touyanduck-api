@@ -1,0 +1,47 @@
+{
+  "date": "2026-04-07",
+  "updatedAt": "2026-04-08T20:14:07+08:00",
+  "sentiment": {
+    "score": 28,
+    "label": "极度恐惧"
+  },
+  "risk": {
+    "score": 100,
+    "level": "high"
+  },
+  "trafficLights": {
+    "red": 3,
+    "yellow": 1,
+    "green": 3
+  },
+  "coreEvent": "特朗普伊朗最后通牒今夜到期——本周通胀三连击决定利率前景",
+  "usMarkets": {
+    "sp500": {
+      "price": 6559.9,
+      "change": -0.79
+    },
+    "nasdaq": {
+      "price": 21743.15,
+      "change": -1.15
+    },
+    "vix": {
+      "price": 26.23,
+      "change": 8.52
+    }
+  },
+  "topMovers": [
+    {
+      "name": "AAPL",
+      "change": 1.46,
+      "reason": ""
+    },
+    {
+      "name": "TSLA",
+      "change": -2.96,
+      "reason": ""
+    }
+  ],
+  "smartMoneySummary": "ARK Invest: 4月初持续加仓CRWV(CoreWeave)和KDK(Kod…；桥水基金: Q4 13F显示大幅增持中国ETF和阿里巴巴，IVV(S&P…；段永平 H&H: Q4大幅增持NVDA+新建仓MSFT和TSM，减持AAPL，…",
+  "actionSummary": "今夜特朗普最后通牒到期是本周最大变量——若升级打击伊朗基础设施，油价可能冲击$120+触发全面避险，…",
+  "briefingUrl": "archive/2026-04-07/briefing.md"
+}
