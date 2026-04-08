@@ -1,8 +1,8 @@
 {
   "date": "2026-04-08",
-  "updatedAt": "2026-04-08T20:13:49+08:00",
+  "updatedAt": "2026-04-08T22:16:25+08:00",
   "sentiment": {
-    "score": 52,
+    "score": 55,
     "label": "中性"
   },
   "risk": {
@@ -14,29 +14,29 @@
     "yellow": 3,
     "green": 3
   },
-  "coreEvent": "美伊停火震动全球市场——油价暴跌创近六年最大单日跌幅，亚太股市集体暴涨",
+  "coreEvent": "美伊达成两周临时停火，霍尔木兹海峡有望重新开放，油价单日暴跌13%",
   "usMarkets": {
     "sp500": {
-      "price": 6616.85,
-      "change": 0.08
+      "price": 6773.44,
+      "change": 2.37
     },
     "nasdaq": {
-      "price": 22017.85,
-      "change": 0.1
+      "price": 22640.41,
+      "change": 2.84
     },
     "vix": {
-      "price": 20.4,
-      "change": 15.6
+      "price": 20.34,
+      "change": -21.1
     }
   },
   "topMovers": [
     {
-      "name": "GOOGL",
-      "change": 3.95,
+      "name": "META",
+      "change": 3.98,
       "reason": ""
     }
   ],
-  "smartMoneySummary": "ARK Invest: 4/6-4/7连续两日买入TSLA合计$16.5M(跨ARK…；Bill Ackman / Pershing Square: 提出$644亿收购环球音乐集团(UMG)，UMG股价当日飙涨…；UBS: 因伊朗战争不确定性下调2026年标普500年终目标价从770…",
-  "actionSummary": "停火窗口期油价快速回落，若布伦特跌破$90回到绿灯区间，将系统性改善全年估值中枢——值得密切关注能源…",
+  "smartMoneySummary": "伯克希尔·巴菲特: Greg Abel上任后首次重启回购+个人投入$1530万购…；ARK Invest·木头姐: 4/7大手笔买入HOOD $1250万(三只基金联合)+TS…；段永平·H&H: 继续关注泡泡玛特(4/4实地调研Westfield门店评价r…",
+  "actionSummary": "关注周五伊斯兰堡谈判进展，若伊朗10项条件遭拒，停火崩盘风险骤升",
   "briefingUrl": "archive/2026-04-08/briefing.md"
 }
