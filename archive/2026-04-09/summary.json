@@ -1,20 +1,20 @@
 {
   "date": "2026-04-09",
-  "updatedAt": "2026-04-09T11:27:26+08:00",
+  "updatedAt": "2026-04-09T14:11:14+08:00",
   "sentiment": {
-    "score": 58,
-    "label": "中性"
+    "score": 68,
+    "label": "偏贪婪"
   },
   "risk": {
-    "score": 80,
+    "score": 100,
     "level": "high"
   },
   "trafficLights": {
     "red": 1,
-    "yellow": 3,
-    "green": 3
+    "yellow": 5,
+    "green": 1
   },
-  "coreEvent": "停火脆弱性比预期更快暴露：伊朗指控美方违约+以色列扩大黎巴嫩袭击+油价今晨反弹",
+  "coreEvent": "美伊达成两周停火协议，霍尔木兹海峡临时开放引发全球风险资产暴涨",
   "usMarkets": {
     "sp500": {
       "price": 6782.81,
@@ -34,14 +34,9 @@
       "name": "META",
       "change": 6.5,
       "reason": ""
-    },
-    {
-      "name": "TSLA",
-      "change": -0.98,
-      "reason": ""
     }
   ],
-  "smartMoneySummary": "伯克希尔·巴菲特: Greg Abel上任后首次重启回购+个人投入$1530万购…；ARK Invest·木头姐: 4/7大手笔买入HOOD $1250万+TSLA $240万…；段永平·H&H: 明确表态不买黄金，继续关注泡泡玛特(4/4实地调研Westf…",
-  "actionSummary": "关注周五(4/11)美国3月CPI数据，若核心CPI环比超0.3%将打压降息预期",
+  "smartMoneySummary": "巴菲特/伯克希尔: CNBC专访称乐于持有苹果为第一重仓，但明确表示不会在当前市…；ARK/Cathie Wood: 4月7-8日大举买入TSLA $1320万(4笔)、HOOD…；段永平/H&H: 收回不投资泡泡玛特说法(3/30)，4/4亲赴Westfie…",
+  "actionSummary": "暂无明确行动建议",
   "briefingUrl": "archive/2026-04-09/briefing.md"
 }
