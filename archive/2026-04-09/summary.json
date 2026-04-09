@@ -1,6 +1,6 @@
 {
   "date": "2026-04-09",
-  "updatedAt": "2026-04-09T09:21:16+08:00",
+  "updatedAt": "2026-04-09T11:27:26+08:00",
   "sentiment": {
     "score": 58,
     "label": "中性"
@@ -37,7 +37,7 @@
     },
     {
       "name": "TSLA",
-      "change": -0.61,
+      "change": -0.98,
       "reason": ""
     }
   ],
