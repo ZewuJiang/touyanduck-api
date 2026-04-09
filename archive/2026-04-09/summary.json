@@ -1,9 +1,9 @@
 {
   "date": "2026-04-09",
-  "updatedAt": "2026-04-09T18:17:14+08:00",
+  "updatedAt": "2026-04-09T22:53:31+08:00",
   "sentiment": {
-    "score": 65,
-    "label": "偏贪婪"
+    "score": 55,
+    "label": "中性"
   },
   "risk": {
     "score": 80,
@@ -14,34 +14,34 @@
     "yellow": 3,
     "green": 3
   },
-  "coreEvent": "美伊达成两周停火协议，原油暴跌近20%引发全球风险资产史诗级反弹",
+  "coreEvent": "伊朗指控美国违反停火协议，霍尔木兹海峡再度关闭，全球市场回吐昨日涨幅",
   "usMarkets": {
     "sp500": {
-      "price": 6782.81,
-      "change": 2.51
+      "price": 6764.14,
+      "change": -0.28
     },
     "nasdaq": {
-      "price": 22634.99,
-      "change": 2.8
+      "price": 22540.82,
+      "change": -0.42
     },
     "vix": {
-      "price": 21.46,
-      "change": -16.76
+      "price": 20.94,
+      "change": -0.48
     }
   },
   "topMovers": [
     {
       "name": "META",
-      "change": 6.5,
+      "change": 2.16,
       "reason": ""
     },
     {
-      "name": "TSLA",
-      "change": -0.98,
+      "name": "GOOGL",
+      "change": -1.91,
       "reason": ""
     }
   ],
-  "smartMoneySummary": "段永平: 正式启动泡泡玛特sell put布局，称'保险公司正式开张'…；伯克希尔: Greg Abel 4月1日接任CEO并重启股票回购，同时个…；ARK Invest: 4月6-8日连续买入TSLA合计$13.6M跨ARKQ/AR…",
+  "smartMoneySummary": "段永平: 正式启动泡泡玛特sell put布局，称'保险公司正式开张'…；伯克希尔: Greg Abel 4月1日接任CEO并重启股票回购，个人投…；ARK Invest: 4月6-8日连续买入TSLA合计$13.6M跨ARKQ/AR…",
   "actionSummary": "暂无明确行动建议",
   "briefingUrl": "archive/2026-04-09/briefing.md"
 }
