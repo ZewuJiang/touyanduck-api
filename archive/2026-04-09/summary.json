@@ -1,0 +1,47 @@
+{
+  "date": "2026-04-09",
+  "updatedAt": "2026-04-09T09:20:00+08:00",
+  "sentiment": {
+    "score": 58,
+    "label": "中性"
+  },
+  "risk": {
+    "score": 80,
+    "level": "high"
+  },
+  "trafficLights": {
+    "red": 1,
+    "yellow": 3,
+    "green": 3
+  },
+  "coreEvent": "停火脆弱性比预期更快暴露：伊朗指控美方违约+以色列扩大黎巴嫩袭击+油价今晨反弹",
+  "usMarkets": {
+    "sp500": {
+      "price": 6782.81,
+      "change": 2.51
+    },
+    "nasdaq": {
+      "price": 22634.99,
+      "change": 2.8
+    },
+    "vix": {
+      "price": 21.04,
+      "change": -18.39
+    }
+  },
+  "topMovers": [
+    {
+      "name": "META",
+      "change": 6.5,
+      "reason": ""
+    },
+    {
+      "name": "TSLA",
+      "change": -0.61,
+      "reason": ""
+    }
+  ],
+  "smartMoneySummary": "伯克希尔·巴菲特: Greg Abel上任后首次重启回购+个人投入$1530万购…；ARK Invest·木头姐: 4/7大手笔买入HOOD $1250万+TSLA $240万…；段永平·H&H: 明确表态不买黄金，继续关注泡泡玛特(4/4实地调研Westf…",
+  "actionSummary": "关注周五(4/11)美国3月CPI数据，若核心CPI环比超0.3%将打压降息预期",
+  "briefingUrl": "archive/2026-04-09/briefing.md"
+}
