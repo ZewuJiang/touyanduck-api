@@ -1,0 +1,42 @@
+{
+  "date": "2026-04-10",
+  "updatedAt": "2026-04-10T06:42:41+08:00",
+  "sentiment": {
+    "score": 63,
+    "label": "偏贪婪"
+  },
+  "risk": {
+    "score": 80,
+    "level": "high"
+  },
+  "trafficLights": {
+    "red": 1,
+    "yellow": 3,
+    "green": 3
+  },
+  "coreEvent": "美股七连阳收复战争跌幅，亚马逊AI芯片爆发，CPI今日公布成关键变量",
+  "usMarkets": {
+    "sp500": {
+      "price": 6824.66,
+      "change": 0.62
+    },
+    "nasdaq": {
+      "price": 22822.42,
+      "change": 0.83
+    },
+    "vix": {
+      "price": 19.49,
+      "change": -7.37
+    }
+  },
+  "topMovers": [
+    {
+      "name": "AMZN",
+      "change": 5.6,
+      "reason": ""
+    }
+  ],
+  "smartMoneySummary": "段永平: 正式启动泡泡玛特sell put布局，称保险公司正式开张，持…；伯克希尔: Greg Abel 4/1接任CEO重启回购，个人投$15.…；ARK Invest: 4/6-8连续买入TSLA(跨ARKK/ARKQ/ARKX)…",
+  "actionSummary": "暂无明确行动建议",
+  "briefingUrl": "archive/2026-04-10/briefing.md"
+}
