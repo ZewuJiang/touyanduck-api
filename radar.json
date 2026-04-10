@@ -19,19 +19,19 @@
   "trafficLights": [
     {
       "name": "VIX波动率",
-      "value": "19.49",
+      "value": "19.44",
       "status": "yellow",
       "threshold": "<18绿 / 18-25黄 / >25红"
     },
     {
       "name": "10Y美债收益率",
-      "value": "4.33%",
+      "value": "4.30%",
       "status": "yellow",
       "threshold": "<4.0%绿 / 4.0-4.5%黄 / >4.5%红"
     },
     {
       "name": "布伦特原油",
-      "value": "$96.69",
+      "value": "$96.70",
       "status": "yellow",
       "threshold": "<$90绿 / $90-110黄 / >$110红"
     },
@@ -49,7 +49,7 @@
     },
     {
       "name": "黄金XAU",
-      "value": "$4,768",
+      "value": "$4,778",
       "status": "red",
       "threshold": "<$2200绿 / $2200-3500黄 / >$3500红"
     },
@@ -62,7 +62,7 @@
   ],
   "riskScore": 80,
   "riskLevel": "high",
-  "riskAdvice": "黄金$4768红灯(避险定价极端)叠10Y美债升至4.33%(通胀韧性定价)——七连阳后贪婪信号初现，今日CPI若超预期+周五伊斯兰堡谈判变数，连涨基础将迅速被消解",
+  "riskAdvice": "黄金$4778红灯(避险定价极端)+布伦特$96.70黄灯(>$90通胀压力持续)——今晚CPI若确认通胀韧性，七连阳基础将被违约，周五伊斯兰堡谈判成败决定油价中枢",
   "riskAlerts": [],
   "events": [
     {
@@ -124,7 +124,7 @@
         },
         {
           "name": "段永平 H&H",
-          "action": "正式启动泡泡玛特sell put操作称保险公司开张，从品牌壁垒/艺术家签约/全球门店/管理团队四维度详述看好逻辑",
+          "action": "4/10宣布暂别雪球，此前启动泡泡玛特sell put(称'保险公司开张')+力挺PDD估值(1400亿扣现金5年回本)+详述泡泡玛特四维壁垒",
           "signal": "bullish",
           "source": "雪球",
           "url": "",
@@ -376,10 +376,10 @@
       "footnote": "ARK每日披露持仓变动，4/6-8连续三天加仓TSLA(跨三只ETF)，减持ROKU和TER，新买入HOOD和Kodiak AI(KDK)"
     }
   ],
-  "dataTime": "2026-04-10 14:09 BJT",
+  "dataTime": "2026-04-10 18:19 BJT",
   "_meta": {
     "sourceType": "heavy_analysis",
-    "generatedAt": "2026-04-10T14:10:00+08:00",
+    "generatedAt": "2026-04-10T18:01:00+08:00",
     "skillVersion": "v10.5"
   }
 }

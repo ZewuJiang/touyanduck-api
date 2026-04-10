@@ -1,6 +1,6 @@
 {
   "date": "2026-04-10",
-  "updatedAt": "2026-04-10T14:10:49+08:00",
+  "updatedAt": "2026-04-10T18:20:39+08:00",
   "sentiment": {
     "score": 63,
     "label": "偏贪婪"
@@ -14,7 +14,7 @@
     "yellow": 3,
     "green": 3
   },
-  "coreEvent": "美股七连阳收复战争跌幅，亚马逊AI芯片爆发，CPI今日公布成关键变量",
+  "coreEvent": "美股七连阳VIX逼近20，亚马逊AI芯片验证自研路径，段永平暂别雪球留下泡泡玛特信号",
   "usMarkets": {
     "sp500": {
       "price": 6824.66,
@@ -36,7 +36,7 @@
       "reason": ""
     }
   ],
-  "smartMoneySummary": "段永平: 正式启动泡泡玛特sell put布局，称保险公司正式开张，持…；伯克希尔: Greg Abel 4/1接任CEO重启回购，个人投$15.…；ARK Invest: 4/6-8连续买入TSLA(跨ARKK/ARKQ/ARKX)…",
+  "smartMoneySummary": "段永平: 4/10宣布暂别雪球，此前已启动泡泡玛特sell put(称…；伯克希尔: Greg Abel 4/1接任CEO重启回购，个人投$15.…；ARK Invest: 4/6-8连续买入TSLA(跨ARKK/ARKQ/ARKX)…",
   "actionSummary": "暂无明确行动建议",
   "briefingUrl": "archive/2026-04-10/briefing.md"
 }
