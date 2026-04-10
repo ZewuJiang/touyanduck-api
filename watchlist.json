@@ -5,7 +5,7 @@
       "id": "ai_infra",
       "name": "AI算力链",
       "trend": "up",
-      "summary": "4/9美股AI算力链涨跌互现，AMZN +5.60%领涨M7(Trainium年收入破200亿)，META +2.61%延续Llama 4红利，ANET +0.67%/NVDA +1.02%小幅反弹，但AMD -0.33%微跌"
+      "summary": "4/10盘中AI算力链偏强——NVDA +1.44%/GOOGL +1.77%/AMZN +1.49%延续反弹，M7科技龙头领涨纳指+0.43%，但AAPL/MSFT近乎持平分化持续"
     },
     {
       "id": "ai_app",
@@ -23,7 +23,7 @@
       "id": "smart_money",
       "name": "聪明钱",
       "trend": "hold",
-      "summary": "4/10智诺钱中的重磅消息：段永平宣布暂别雪球，此前已启动泡泡玛特sell put+力挺PDD(1400亿扣现金5年回本)——泡泡玛特-1.18%略回调但信号已完整释放"
+      "summary": "4/10聪明钱重磅：段永平宣布暂别雪球，此前已启动泡泡玛特sell put+力挺PDD(1400亿扣现金5年回本)——投资信号在离场前集中释放"
     },
     {
       "id": "hot_topic",
@@ -37,8 +37,8 @@
       {
         "name": "英伟达",
         "symbol": "NVDA",
-        "change": 1.02,
-        "price": "$183.94",
+        "change": 1.44,
+        "price": "$186.59",
         "listed": true,
         "tags": [
           "AI芯片龙头",
@@ -52,11 +52,11 @@
         "metrics": [
           {
             "label": "最新价",
-            "value": "$183.94"
+            "value": "$186.59"
           },
           {
             "label": "单日涨跌",
-            "value": "+1.02%"
+            "value": "+1.44%"
           },
           {
             "label": "7日涨跌",
@@ -1001,11 +1001,11 @@
           },
           {
             "label": "7日涨跌",
-            "value": "+21.71%"
+            "value": "+22.06%"
           },
           {
             "label": "30日涨跌",
-            "value": "+21.11%"
+            "value": "+37.57%"
           },
           {
             "label": "PE(TTM)",
@@ -1937,11 +1937,11 @@
           },
           {
             "label": "7日涨跌",
-            "value": "+21.87%"
+            "value": "+15.15%"
           },
           {
             "label": "30日涨跌",
-            "value": "+2.5%"
+            "value": "+2.78%"
           },
           {
             "label": "PE(TTM)",
@@ -2299,11 +2299,11 @@
           },
           {
             "label": "7日涨跌",
-            "value": "+0.72%"
+            "value": "-0.38%"
           },
           {
             "label": "30日涨跌",
-            "value": "-0.39%"
+            "value": "-0.07%"
           },
           {
             "label": "PE(TTM)",
@@ -2793,7 +2793,7 @@
       }
     ]
   },
-  "dataTime": "2026-04-10 18:19 BJT",
+  "dataTime": "2026-04-10 22:18 BJT",
   "_meta": {
     "sourceType": "heavy_analysis",
     "generatedAt": "2026-04-10T18:01:00+08:00",

@@ -1,9 +1,9 @@
 {
   "date": "2026-04-10",
-  "updatedAt": "2026-04-10T18:20:39+08:00",
+  "updatedAt": "2026-04-10T22:19:14+08:00",
   "sentiment": {
-    "score": 63,
-    "label": "偏贪婪"
+    "score": 60,
+    "label": "中性"
   },
   "risk": {
     "score": 80,
@@ -14,29 +14,29 @@
     "yellow": 3,
     "green": 3
   },
-  "coreEvent": "美股七连阳VIX逼近20，亚马逊AI芯片验证自研路径，段永平暂别雪球留下泡泡玛特信号",
+  "coreEvent": "美股反弹动能分化道指转跌，CPI+伊斯兰堡谈判双重催化逼近",
   "usMarkets": {
     "sp500": {
-      "price": 6824.66,
-      "change": 0.62
+      "price": 6828.33,
+      "change": 0.05
     },
     "nasdaq": {
-      "price": 22822.42,
-      "change": 0.83
+      "price": 22921.44,
+      "change": 0.43
     },
     "vix": {
-      "price": 19.49,
-      "change": -7.37
+      "price": 19.04,
+      "change": -2.31
     }
   },
   "topMovers": [
     {
-      "name": "AMZN",
-      "change": 5.6,
+      "name": "GOOGL",
+      "change": 1.77,
       "reason": ""
     }
   ],
-  "smartMoneySummary": "段永平: 4/10宣布暂别雪球，此前已启动泡泡玛特sell put(称…；伯克希尔: Greg Abel 4/1接任CEO重启回购，个人投$15.…；ARK Invest: 4/6-8连续买入TSLA(跨ARKK/ARKQ/ARKX)…",
+  "smartMoneySummary": "段永平: 4/10宣布暂别雪球，此前已启动泡泡玛特sell put并力…；ARK Invest: 4/9买入$11.4M TSLA，4/7买入$13M HOO…；伯克希尔: Greg Abel 4/1接任CEO重启回购，个人投$15.…",
   "actionSummary": "暂无明确行动建议",
   "briefingUrl": "archive/2026-04-10/briefing.md"
 }
