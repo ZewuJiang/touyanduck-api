@@ -2,61 +2,61 @@
   "date": "2026-04-10",
   "predictions": [
     {
-      "title": "美联储5月维持利率?",
-      "source": "CME FedWatch",
-      "probability": 83,
+      "title": "美联储4月维持利率?",
+      "source": "Polymarket",
+      "probability": 98,
       "trend": "stable",
       "change24h": 0
     },
     {
-      "title": "美联储9月降息?",
+      "title": "年底前降息概率?",
       "source": "CME FedWatch",
-      "probability": 48,
-      "trend": "stable",
-      "change24h": -2
+      "probability": 43,
+      "trend": "up",
+      "change24h": 29
     },
     {
-      "title": "美伊停火延长至永久?",
+      "title": "2026年底前美国衰退?",
       "source": "Polymarket",
-      "probability": 25,
-      "trend": "up",
-      "change24h": 8
+      "probability": 30,
+      "trend": "down",
+      "change24h": -2
     }
   ],
   "trafficLights": [
     {
       "name": "VIX波动率",
-      "value": "19.04",
+      "value": "18.95",
       "status": "yellow",
       "threshold": "<18绿 / 18-25黄 / >25红"
     },
     {
       "name": "10Y美债收益率",
-      "value": "4.265%",
+      "value": "4.31%",
       "status": "yellow",
       "threshold": "<4.0%绿 / 4.0-4.5%黄 / >4.5%红"
     },
     {
       "name": "布伦特原油",
-      "value": "$96.03",
+      "value": "$96.08",
       "status": "yellow",
       "threshold": "<$90绿 / $90-110黄 / >$110红"
     },
     {
       "name": "美元指数DXY",
-      "value": "98.61",
+      "value": "98.56",
       "status": "green",
       "threshold": "<102绿 / 102-107黄 / >107红"
     },
     {
       "name": "HY信用利差",
-      "value": "2.94%",
+      "value": "3.17%",
       "status": "green",
       "threshold": "<4%绿 / 4-5%黄 / >5%红"
     },
     {
       "name": "黄金XAU",
-      "value": "$4,778",
+      "value": "$4,779",
       "status": "red",
       "threshold": "<$2200绿 / $2200-3500黄 / >$3500红"
     },
@@ -69,52 +69,59 @@
   ],
   "riskScore": 80,
   "riskLevel": "high",
-  "riskAdvice": "黄金$4778红灯(避险定价极端)+布伦特$96黄灯(停火脆弱油价仍在$90+)——今晚CPI若确认通胀韧性叠加明日伊斯兰堡谈判不确定性，七连阳的获利回吐可能加速",
+  "riskAdvice": "黄金$4779红灯(避险定价极端)+布伦特$96+VIX 18.95三项黄灯——今晚CPI若确认通胀韧性(预期3.3%)叠加明日伊斯兰堡谈判不确定性，八连阳的获利回吐可能加速",
   "riskAlerts": [],
   "events": [
     {
       "date": "周四(4/10)",
-      "title": "美国3月CPI数据今晚公布，核心CPI预期环比+0.3%，七连阳后最关键催化剂",
+      "title": "3月CPI今晚公布(预期整体3.3%/核心2.7%)+PCE物价指数同日发布，通胀验证日",
       "impact": "high",
       "source": "BLS",
       "url": "https://www.bls.gov/cpi/"
     },
     {
+      "date": "周四(4/10)",
+      "title": "JPMorgan/Wells Fargo/BlackRock三大行Q1财报今日发布，开启财报季",
+      "impact": "high",
+      "source": "FactSet",
+      "url": ""
+    },
+    {
       "date": "周五(4/11)",
-      "title": "美伊在伊斯兰堡启动正式停火谈判，结果将决定油价和地缘溢价方向",
+      "title": "美伊在伊斯兰堡启动正式停火谈判，结果将决定油价中枢和地缘溢价方向",
       "impact": "high",
       "source": "AP News",
       "url": "https://apnews.com/live/iran-war-israel-trump-04-08-2026"
     },
     {
       "date": "周五(4/11)",
-      "title": "美国3月PPI数据公布，配合CPI验证生产端通胀趋势",
+      "title": "密歇根大学消费者信心指数发布，检验消费者对通胀和关税的预期变化",
       "impact": "medium",
-      "source": "BLS",
-      "url": "https://www.bls.gov/ppi/"
-    },
-    {
-      "date": "下周",
-      "title": "Q1财报季开启——JPM/WFC/GS等大行率先发布，银行盈利验证信贷健康度",
-      "impact": "high",
-      "source": "FactSet",
+      "source": "University of Michigan",
       "url": ""
     }
   ],
   "alerts": [
     {
       "level": "warning",
-      "text": "道琼斯盘中转跌-0.38%，七连阳后首次出现蓝筹显著分化，获利回吐信号浮现",
-      "time": "22:00",
-      "source": "Google Finance",
+      "text": "对冲基金4月遭4年来最重回撤(平均亏7.8%)，科技多头/杠杆策略受伤最深，共识交易踩踏风险",
+      "time": "22:20",
+      "source": "Bloomberg",
       "url": ""
     },
     {
       "level": "info",
-      "text": "DXY跌破99至98.61创年内新低，美元走弱利好新兴市场和大宗商品",
-      "time": "22:00",
-      "source": "Trading Economics",
-      "url": "https://tradingeconomics.com/dxy:cur"
+      "text": "段永平4/10宣布暂别雪球，此前已完成泡泡玛特sell put+PDD估值表态，投资信号集中释放后离场",
+      "time": "22:15",
+      "source": "雪球",
+      "url": "https://xueqiu.com/u/1247347556"
+    },
+    {
+      "level": "info",
+      "text": "停火后降息预期从14%飙升至43%(CME FedWatch)，但Dalio警告距世界大战仅4步",
+      "time": "22:10",
+      "source": "CME Group",
+      "url": ""
     }
   ],
   "smartMoneyDetail": [
@@ -123,19 +130,27 @@
       "funds": [
         {
           "name": "段永平 H&H",
-          "action": "4/10宣布暂别雪球，此前启动泡泡玛特sell put(称'保险公司开张')+力挺PDD估值(1400亿扣现金5年回本)+详述泡泡玛特四维壁垒",
+          "action": "4/10宣布暂别雪球，4/9启动泡泡玛特sell put(称保险公司开张)+力挺PDD估值(1400亿扣现金5年回本)——投资信号在离场前集中释放",
           "signal": "bullish",
           "source": "雪球",
-          "url": "",
+          "url": "https://xueqiu.com/u/1247347556",
           "freshness": "本周"
         },
         {
           "name": "伯克希尔",
-          "action": "Greg Abel 4/1正式接任CEO并重启股票回购，个人投入$15.3M购入公司股票，现金储备$3733亿仍处历史高位",
+          "action": "发行2723亿日元债资助东京海上收购+加入DFC海上再保险计划($400亿霍尔木兹保障)，Greg Abel接任后积极拓展国际业务",
           "signal": "neutral",
-          "source": "SEC Filing",
+          "source": "Bloomberg",
           "url": "",
-          "freshness": "本月"
+          "freshness": "本周"
+        },
+        {
+          "name": "桥水/Dalio",
+          "action": "4/9 Dalio发布13步世界大战周期框架，警告距战争仅4步，认为市场严重低估伊朗冲突持续性和扩散风险",
+          "signal": "bearish",
+          "source": "LinkedIn",
+          "url": "",
+          "freshness": "本周"
         }
       ]
     },
@@ -144,10 +159,10 @@
       "funds": [
         {
           "name": "ARK Invest",
-          "action": "4/9买入$11.4M TSLA+$1.1M WGS(GeneDx)，卖出$618K BWXT；4/7买入$13M HOOD(Robinhood国债交易催化)，连续多日增配成长股",
+          "action": "本周累计买入TSLA约$2780万(含4/8 ARKQ 33210股$1140万)+4/7买入HOOD $1270万，4/9新买WGS(GeneDx)$196万",
           "signal": "bullish",
           "source": "cathiesark.com",
-          "url": "https://cathiesark.com/arkk/trades",
+          "url": "https://cathiesark.com/ark-funds-combined/trades",
           "freshness": "本周"
         }
       ]
@@ -156,20 +171,28 @@
       "tier": "策略师观点",
       "funds": [
         {
-          "name": "Goldman Sachs",
-          "action": "[4/6] David Kostin维持标普500年底目标7600点(12%上行空间)，认为盈利增长将从AI集中扩散至更多板块",
+          "name": "Goldman Sachs/Kostin",
+          "action": "标普500年末目标7200，EPS增长12%；看好工业/材料/地产/金融轮动，科技溢价收窄",
           "signal": "bullish",
           "source": "Goldman Sachs",
-          "url": "https://www.goldmansachs.com/insights/videos/s-and-p-500-forecast-to-rally-amid-a-healthy-economy-in-2026",
-          "freshness": "本周"
-        },
-        {
-          "name": "Morgan Stanley",
-          "action": "Mike Wilson维持标普500年底目标7800点(16%上行)，看好AI驱动的盈利增长但警告地缘短期波动",
-          "signal": "bullish",
-          "source": "Morgan Stanley",
           "url": "",
           "freshness": "本月"
+        },
+        {
+          "name": "Morgan Stanley/Wilson",
+          "action": "[3/16] 标普500短期可能回撤至6300，中长期看好2026下半年估值扩张，推荐穿越波动的个股策略",
+          "signal": "neutral",
+          "source": "Morgan Stanley",
+          "url": "",
+          "freshness": "上周"
+        },
+        {
+          "name": "贝莱德/Fink",
+          "action": "[3/23] 年度信核心：AI将加剧收入不平等，建议不要择时保持投资，AI从炒作进入实用阶段",
+          "signal": "bullish",
+          "source": "BlackRock",
+          "url": "",
+          "freshness": "上周"
         }
       ]
     }
@@ -380,13 +403,13 @@
           "change": "持仓不变"
         }
       ],
-      "footnote": "ARK每日披露持仓变动，4/9买入$11.4M TSLA+$1.1M WGS(GeneDx)，4/7买入$13M HOOD(Robinhood)，连续多日增配成长股"
+      "footnote": "ARK每日披露持仓变动，本周累计买入TSLA约$2780万+HOOD $1270万+WGS $196万，TSLA目标价$4600(Robotaxi占60%估值)"
     }
   ],
-  "dataTime": "2026-04-10 22:18 BJT",
+  "dataTime": "2026-04-10 22:36 BJT",
   "_meta": {
     "sourceType": "heavy_analysis",
-    "generatedAt": "2026-04-10T22:00:00+08:00",
+    "generatedAt": "2026-04-10T22:30:00+08:00",
     "skillVersion": "v10.5"
   }
 }

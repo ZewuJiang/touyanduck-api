@@ -1,43 +1,36 @@
 {
   "date": "2026-04-10",
-  "takeaway": "美伊停火后【反弹延续第八日】但动能减弱，道指盘中转跌-0.38%，【黄金$4778红灯】与股市乐观严重背离——【CPI】今晚公布+【伊斯兰堡谈判】明日启动，双重催化决定方向",
+  "takeaway": "美伊停火后【反弹延续第八日】科技领涨纳指+0.58%，【VIX降至18.95】逼近绿灯但【黄金$4779红灯】避险未退——今晚【CPI】+明日【伊斯兰堡谈判】双重催化决定方向",
   "coreEvent": {
-    "title": "美股反弹动能分化道指转跌，CPI+伊斯兰堡谈判双重催化逼近",
+    "title": "CPI+大行财报超级数据日，美股科技主导反弹但分化加剧",
     "chain": [
       {
-        "title": "反弹动能分化道指盘中转跌",
-        "brief": "标普500微涨0.05%/纳指+0.43%但道指-0.38%，七连阳后获利回吐压力显现，市场等待CPI方向性指引",
+        "title": "纳指+0.58%科技领涨道指微跌",
+        "brief": "AMZN+2.52%/NVDA+1.87%领涨M7全线飘红，但道指-0.22%蓝筹拖累，VIX降至18.95逼近绿灯区间",
         "source": "Google Finance",
-        "url": "https://www.google.com/finance/quote/.INX:INDEXSP",
+        "url": "https://www.google.com/finance/quote/.IXIC:INDEXNASDAQ",
         "source_count": 3
       },
       {
+        "title": "CPI今晚公布+JPM/WFC/BLK三大行财报同日",
+        "brief": "3月CPI预期整体3.3%/核心2.7%，若超预期将打压降息预期；JPMorgan/Wells Fargo/BlackRock Q1财报今日发布开启财报季",
+        "source": "BLS",
+        "url": "https://www.bls.gov/cpi/",
+        "source_count": 4
+      },
+      {
         "title": "美伊伊斯兰堡谈判明日启动",
-        "brief": "两周停火协议4/8生效后伊朗指控违约，巴基斯坦斡旋下周五将在伊斯兰堡启动正式谈判，成败决定油价中枢",
+        "brief": "停火协议4/8生效后伊朗指控违约，巴基斯坦斡旋下明日将在伊斯兰堡启动正式谈判，成败决定油价中枢",
         "source": "AP News",
         "url": "https://apnews.com/live/iran-war-israel-trump-04-08-2026",
         "source_count": 5
       },
       {
-        "title": "ARK连续加仓TSLA+HOOD",
-        "brief": "Cathie Wood 4/9买入$11.4M TSLA+WGS $1.1M，卖出BWXT $618K；4/7买入$13M HOOD(Robinhood国债交易业务催化)",
-        "source": "Benzinga",
-        "url": "https://www.benzinga.com/etfs/broad-u-s-equity-etfs/26/04/51722253",
-        "source_count": 3
-      },
-      {
-        "title": "亚太全线收涨A股冲击4000点",
-        "brief": "日经+1.84%/KOSPI+1.40%/深证+2.24%创业板+3.78%创四年新高，上证盘中站上4000点但收盘微退至3986",
+        "title": "亚太全线收涨日经大涨2.63%",
+        "brief": "日经+2.63%(+1468点)，深证+2.24%创业板创四年新高，上证盘中站上4000点但收盘退至3986，北向资金净流入约85亿",
         "source": "金融界",
         "url": "https://stock.jrj.com.cn/2026/04/10161356692327.shtml",
         "source_count": 4
-      },
-      {
-        "title": "DXY跌破99美元走弱",
-        "brief": "美元指数98.61为年内新低，停火降风险偏好+降息预期微升共同压制美元，利好新兴市场和大宗商品",
-        "source": "Trading Economics",
-        "url": "https://tradingeconomics.com/dxy:cur",
-        "source_count": 2
       },
       {
         "title": "段永平暂别雪球投资信号完整释放",
@@ -45,57 +38,64 @@
         "source": "雪球",
         "url": "https://xueqiu.com/u/1247347556",
         "source_count": 4
+      },
+      {
+        "title": "DXY跌破99美元指数年内新低",
+        "brief": "DXY 98.56为年内新低，停火降风险偏好+降息预期微升共同压制美元，利好新兴市场和大宗商品重定价",
+        "source": "Trading Economics",
+        "url": "https://tradingeconomics.com/dxy:cur",
+        "source_count": 2
       }
     ]
   },
   "globalReaction": [
     {
       "name": "标普500",
-      "value": "+0.054%",
+      "value": "+0.19%",
       "direction": "up",
-      "note": "盘中微涨动能减弱"
+      "note": "科技领涨延续反弹"
     },
     {
       "name": "纳斯达克",
-      "value": "+0.43%",
+      "value": "+0.58%",
       "direction": "up",
-      "note": "GOOGL+AMZN领涨科技"
+      "note": "AMZN/NVDA双引擎"
     },
     {
       "name": "布伦特原油",
-      "value": "$96.03",
+      "value": "$96.08",
       "direction": "up",
-      "note": "停火谈判前小幅反弹"
+      "note": "停火谈判前窄幅波动"
     },
     {
       "name": "黄金",
-      "value": "$4,778",
+      "value": "$4,779",
       "direction": "up",
       "note": "红灯区间避险未退"
     },
     {
       "name": "10Y美债",
-      "value": "4.265%",
-      "direction": "down",
-      "note": "CPI前收益率微降"
+      "value": "4.31%",
+      "direction": "up",
+      "note": "CPI前收益率微升"
     },
     {
       "name": "BTC",
-      "value": "$72,329",
+      "value": "$72,943",
       "direction": "up",
-      "note": "站稳7.2万盘中涨1.6%"
+      "note": "站稳7.3万盘中涨1.6%"
     }
   ],
   "coreJudgments": [
     {
-      "title": "CPI今晚公布将决定七连阳后走势方向",
-      "confidence": 75,
-      "logic": "七连阳积累获利盘 → 核心CPI若>0.3%环比 → 降息预期推迟+10Y上行 → 成长股估值承压终结连涨",
+      "title": "CPI今晚公布将决定八连阳后走势方向",
+      "confidence": 78,
+      "logic": "八连阳积累获利盘 → 核心CPI若>0.3%环比 → 降息预期推迟+10Y上行 → 成长股估值承压终结连涨",
       "keyActor": "BLS/美联储",
       "references": [
         {
           "name": "Trading Economics",
-          "summary": "3月CPI预期环比+0.3%，10Y美债4.265%反映市场谨慎等待",
+          "summary": "3月CPI预期整体3.3%/核心2.7%，10Y美债4.31%反映市场等待数据落地",
           "url": "https://tradingeconomics.com/united-states/inflation-cpi"
         }
       ],
@@ -105,12 +105,12 @@
     {
       "title": "伊斯兰堡谈判成败决定油价和地缘溢价方向",
       "confidence": 70,
-      "logic": "停火脆弱(伊朗指控违约) → 明日伊斯兰堡谈判启动 → 成功则油价回$85-90/失败则冲$105+ → 直接影响通胀预期和降息空间",
+      "logic": "停火脆弱(Trump指责伊朗违约) → 明日伊斯兰堡谈判启动 → 成功则油价回$85-90/失败则冲$105+ → 直接影响通胀预期和降息空间",
       "keyActor": "美伊谈判代表/巴基斯坦",
       "references": [
         {
           "name": "AP News",
-          "summary": "美伊以三方在巴基斯坦斡旋下启动伊斯兰堡正式谈判",
+          "summary": "美伊以三方在巴基斯坦斡旋下启动伊斯兰堡正式谈判，Trump指责伊朗做得非常差",
           "url": "https://apnews.com/live/iran-war-israel-trump-04-08-2026"
         }
       ],
@@ -118,14 +118,14 @@
       "trend": "稳定"
     },
     {
-      "title": "美元走弱+亚太强势暗示资金风格切换",
-      "confidence": 65,
-      "logic": "DXY跌至98.6年内新低 → 亚太全线大涨(日经+1.84%/创业板+3.78%) → 资金从美元避险回流风险资产 → 新兴市场和大宗相对受益",
+      "title": "DXY破99+亚太强势暗示资金风格切换加速",
+      "confidence": 68,
+      "logic": "DXY跌至98.56年内新低 → 亚太全线大涨(日经+2.63%/创业板+3.78%) → 资金从美元避险回流风险资产 → 新兴市场和大宗相对受益窗口期",
       "keyActor": "全球资金流",
       "references": [
         {
           "name": "金融界",
-          "summary": "A股创业板指涨3.78%创四年新高，深证成指涨2.24%",
+          "summary": "A股创业板指涨3.78%创四年新高，北向资金净流入约85亿元",
           "url": "https://stock.jrj.com.cn/2026/04/10161356692327.shtml"
         }
       ],
@@ -134,28 +134,33 @@
     }
   ],
   "actionHints": [],
-  "sentimentScore": 60,
-  "sentimentLabel": "中性",
+  "sentimentScore": 62,
+  "sentimentLabel": "偏贪婪",
   "marketSummaryPoints": [
-    "美股盘中分化明显——纳指+0.43%科技领涨但道指-0.38%转跌，七连阳后获利回吐压力浮现",
-    "亚太4/10全线收涨，日经+1.84%/KOSPI+1.40%/深证+2.24%/创业板+3.78%创四年新高",
-    "DXY跌破99至98.61年内新低，美元走弱与黄金$4778红灯共振，避险与风险偏好信号矛盾",
-    "今晚CPI+明日伊斯兰堡谈判双重催化逼近，方向性选择不可避免"
+    "美股盘中科技主导——纳指+0.58%由AMZN+2.52%/NVDA+1.87%领涨，道指-0.22%蓝筹微弱，VIX降至18.95逼近绿灯",
+    "亚太4/10全线收涨，日经+2.63%(+1468点)/KOSPI+1.40%/深证+2.24%/创业板创四年新高",
+    "DXY跌破99至98.56年内新低+黄金$4779红灯，避险与风险偏好信号仍然矛盾",
+    "今晚CPI+JPM/WFC/BLK大行财报+明日伊斯兰堡谈判，三重催化密集轰炸"
   ],
   "smartMoney": [
     {
       "source": "段永平",
-      "action": "4/10宣布暂别雪球，此前已启动泡泡玛特sell put并力挺PDD估值(1400亿扣现金5年回本)",
+      "action": "4/10宣布暂别雪球，4/9启动泡泡玛特sell put(保险公司开张)并力挺PDD估值(1400亿扣现金5年回本)",
       "signal": "bullish"
     },
     {
       "source": "ARK Invest",
-      "action": "4/9买入$11.4M TSLA，4/7买入$13M HOOD(Robinhood)，连续多日加仓成长股",
+      "action": "本周累计买入TSLA约$2780万+HOOD $1270万，4/9新买WGS卖出BWXT，连续加仓成长股",
       "signal": "bullish"
     },
     {
+      "source": "桥水/Dalio",
+      "action": "4/9 Dalio警告距世界大战仅4步(发布13步周期框架)，认为市场严重低估伊朗冲突持续性",
+      "signal": "bearish"
+    },
+    {
       "source": "伯克希尔",
-      "action": "Greg Abel 4/1接任CEO重启回购，个人投$15.3M购入公司股票，现金储备$3733亿",
+      "action": "发行2723亿日元债资助东京海上收购，加入美国DFC海上再保险计划($400亿霍尔木兹保障)",
       "signal": "neutral"
     }
   ],
@@ -170,22 +175,22 @@
     },
     {
       "name": "Cathie Wood · ARK旗舰",
-      "holdings": "TSLA 10.5% | CRSP 6.3% | TEM 5.0% | SHOP 4.7% | COIN 4.3% · 连续加仓TSLA+新买HOOD"
+      "holdings": "TSLA 10.5% | CRSP 6.3% | TEM 5.0% | SHOP 4.7% | COIN 4.3% · 本周大举加仓TSLA+HOOD"
     }
   ],
   "riskPoints": [
-    "停火极度脆弱(伊朗指控违约)，明日伊斯兰堡谈判若破裂布伦特将冲击$105+",
-    "七连阳后道指已转跌，CPI若超预期将触发集中获利了结",
-    "黄金$4778红灯+DXY跌破99，避险资金与股市乐观形成结构性背离"
+    "停火极度脆弱(Trump指责伊朗违约)，明日伊斯兰堡谈判若破裂布伦特将冲击$105+",
+    "八连阳后道指已微跌，CPI若超预期3.3%将触发集中获利了结+10Y上行",
+    "黄金$4779红灯+DXY跌破99，避险资金与股市乐观形成结构性背离——4月基金平均亏7.8%为四年最重"
   ],
-  "riskNote": "CPI+伊斯兰堡谈判双重催化叠加七连阳获利盘，市场对利空敏感度处于高位，方向性选择即将到来",
-  "dataTime": "2026-04-10 22:18 BJT",
+  "riskNote": "CPI+伊斯兰堡谈判+大行财报三重催化叠加八连阳获利盘，市场对利空敏感度处于高位，对冲基金4月平均亏损7.8%为四年最重",
+  "dataTime": "2026-04-10 22:36 BJT",
   "audioUrl": "cloud://cloud1-3g6wj06h84f38ea8.636c-cloud1-3g6wj06h84f38ea8-1418169528/audio/briefing-2026-04-10.mp3",
-  "audioFile": "briefing-2026-04-10.mp3",
-  "voiceText": "各位投资者晚上好，这里是投研鸭每日简报更新，今天是2026年4月10日。美股目前正在交易中，盘中表现出现分化——纳斯达克涨0.43%由GOOGL和AMZN领涨，但道琼斯转跌0.38%，七连阳后获利回吐压力开始显现。亚太市场今日全线收涨，日经225大涨1.84%，韩国KOSPI涨1.40%，A股深证成指涨2.24%，创业板指暴涨3.78%创四年新高，上证指数盘中一度站上4000点。今晚两大催化剂值得关注：第一是3月CPI数据即将公布，核心CPI预期环比0.3%，若超预期将打压降息预期。第二是明天美伊将在伊斯兰堡启动正式停火谈判，成败将决定油价中枢。美元指数跌破99至98.61年内新低，黄金4778美元仍处红灯区间，避险情绪与股市乐观形成矛盾。风险提示：七连阳后道指已率先转跌，CPI和地缘谈判双重催化下方向性选择不可避免。以上就是投研鸭简报更新，祝您投资顺利。",
+  "audioFile": "",
+  "voiceText": "",
   "_meta": {
     "sourceType": "heavy_analysis",
-    "generatedAt": "2026-04-10T22:00:00+08:00",
+    "generatedAt": "2026-04-10T22:30:00+08:00",
     "skillVersion": "v10.5"
   }
 }

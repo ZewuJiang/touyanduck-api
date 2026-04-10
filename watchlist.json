@@ -5,7 +5,7 @@
       "id": "ai_infra",
       "name": "AI算力链",
       "trend": "up",
-      "summary": "4/10盘中AI算力链偏强——NVDA +1.44%/GOOGL +1.77%/AMZN +1.49%延续反弹，M7科技龙头领涨纳指+0.43%，但AAPL/MSFT近乎持平分化持续"
+      "summary": "4/10盘中AI算力链全线偏强——AMZN+2.52%/NVDA+1.87%/META+1.01%领涨纳指+0.58%，VIX降至18.95逼近绿灯区间，但AAPL/MSFT/TSLA涨幅偏小分化持续"
     },
     {
       "id": "ai_app",
@@ -37,8 +37,8 @@
       {
         "name": "英伟达",
         "symbol": "NVDA",
-        "change": 1.44,
-        "price": "$186.59",
+        "change": 1.87,
+        "price": "$187.35",
         "listed": true,
         "tags": [
           "AI芯片龙头",
@@ -52,15 +52,15 @@
         "metrics": [
           {
             "label": "最新价",
-            "value": "$186.59"
+            "value": "$187.35"
           },
           {
             "label": "单日涨跌",
-            "value": "+1.44%"
+            "value": "+1.87%"
           },
           {
             "label": "7日涨跌",
-            "value": "+5.45%"
+            "value": "+7.43%"
           },
           {
             "label": "30日涨跌",
@@ -297,8 +297,8 @@
       {
         "name": "微软",
         "symbol": "MSFT",
-        "change": 0.34,
-        "price": "$373.07",
+        "change": 0.2,
+        "price": "$373.83",
         "listed": true,
         "tags": [
           "Azure+Copilot",
@@ -309,11 +309,11 @@
         "metrics": [
           {
             "label": "最新价",
-            "value": "$373.07"
+            "value": "$373.83"
           },
           {
             "label": "单日涨跌",
-            "value": "+0.34%"
+            "value": "+0.2%"
           },
           {
             "label": "7日涨跌",
@@ -381,8 +381,8 @@
       {
         "name": "谷歌",
         "symbol": "GOOGL",
-        "change": -0.06,
-        "price": "$318.48",
+        "change": 0.28,
+        "price": "$319.34",
         "listed": true,
         "tags": [
           "Gemini+GCP",
@@ -397,11 +397,11 @@
         "metrics": [
           {
             "label": "最新价",
-            "value": "$318.48"
+            "value": "$319.34"
           },
           {
             "label": "单日涨跌",
-            "value": "-0.06%"
+            "value": "+0.28%"
           },
           {
             "label": "7日涨跌",
@@ -470,8 +470,8 @@
       {
         "name": "META",
         "symbol": "META",
-        "change": 2.61,
-        "price": "$628.39",
+        "change": 1.01,
+        "price": "$634.74",
         "listed": true,
         "tags": [
           "Llama 4开源",
@@ -482,15 +482,15 @@
         "metrics": [
           {
             "label": "最新价",
-            "value": "$628.39"
+            "value": "$634.74"
           },
           {
             "label": "单日涨跌",
-            "value": "+2.61%"
+            "value": "+1.01%"
           },
           {
             "label": "7日涨跌",
-            "value": "+9.83%"
+            "value": "+10.94%"
           },
           {
             "label": "30日涨跌",
@@ -555,8 +555,8 @@
       {
         "name": "亚马逊",
         "symbol": "AMZN",
-        "change": 5.6,
-        "price": "$233.65",
+        "change": 2.52,
+        "price": "$239.54",
         "listed": true,
         "tags": [
           "AWS+Anthropic",
@@ -567,15 +567,15 @@
         "metrics": [
           {
             "label": "最新价",
-            "value": "$233.65"
+            "value": "$239.54"
           },
           {
             "label": "单日涨跌",
-            "value": "+5.6%"
+            "value": "+2.52%"
           },
           {
             "label": "7日涨跌",
-            "value": "+12.19%"
+            "value": "+15.01%"
           },
           {
             "label": "30日涨跌",
@@ -640,8 +640,8 @@
       {
         "name": "苹果",
         "symbol": "AAPL",
-        "change": 0.61,
-        "price": "$260.49",
+        "change": 0.42,
+        "price": "$261.58",
         "listed": true,
         "tags": [
           "端侧AI入口",
@@ -656,11 +656,11 @@
         "metrics": [
           {
             "label": "最新价",
-            "value": "$260.49"
+            "value": "$261.58"
           },
           {
             "label": "单日涨跌",
-            "value": "+0.61%"
+            "value": "+0.42%"
           },
           {
             "label": "7日涨跌",
@@ -1001,7 +1001,7 @@
           },
           {
             "label": "7日涨跌",
-            "value": "+22.06%"
+            "value": "+19.79%"
           },
           {
             "label": "30日涨跌",
@@ -1152,8 +1152,8 @@
       {
         "name": "特斯拉",
         "symbol": "TSLA",
-        "change": 0.68,
-        "price": "$345.58",
+        "change": 0.18,
+        "price": "$346.25",
         "listed": true,
         "tags": [
           "自动驾驶",
@@ -1164,11 +1164,11 @@
         "metrics": [
           {
             "label": "最新价",
-            "value": "$345.58"
+            "value": "$346.25"
           },
           {
             "label": "单日涨跌",
-            "value": "+0.68%"
+            "value": "+0.18%"
           },
           {
             "label": "7日涨跌",
@@ -1601,7 +1601,7 @@
           },
           {
             "label": "7日涨跌",
-            "value": "+0.24%"
+            "value": "+2.61%"
           },
           {
             "label": "30日涨跌",
@@ -1769,7 +1769,7 @@
           },
           {
             "label": "7日涨跌",
-            "value": "+0.81%"
+            "value": "+1.52%"
           },
           {
             "label": "30日涨跌",
@@ -1853,7 +1853,7 @@
           },
           {
             "label": "7日涨跌",
-            "value": "-4.97%"
+            "value": "-4.12%"
           },
           {
             "label": "30日涨跌",
@@ -1937,7 +1937,7 @@
           },
           {
             "label": "7日涨跌",
-            "value": "+15.15%"
+            "value": "+16.02%"
           },
           {
             "label": "30日涨跌",
@@ -2299,7 +2299,7 @@
           },
           {
             "label": "7日涨跌",
-            "value": "-0.38%"
+            "value": "-0.96%"
           },
           {
             "label": "30日涨跌",
@@ -2557,7 +2557,7 @@
           },
           {
             "label": "7日涨跌",
-            "value": "+2.07%"
+            "value": "+0.87%"
           },
           {
             "label": "30日涨跌",
@@ -2624,8 +2624,8 @@
       {
         "name": "亚马逊",
         "symbol": "AMZN",
-        "change": 5.6,
-        "price": "$233.65",
+        "change": 2.52,
+        "price": "$239.54",
         "listed": true,
         "tags": [
           "事件驱动",
@@ -2636,15 +2636,15 @@
         "metrics": [
           {
             "label": "最新价",
-            "value": "$233.65"
+            "value": "$239.54"
           },
           {
             "label": "单日涨跌",
-            "value": "+5.6%"
+            "value": "+2.52%"
           },
           {
             "label": "7日涨跌",
-            "value": "+12.19%"
+            "value": "+15.01%"
           },
           {
             "label": "30日涨跌",
@@ -2709,8 +2709,8 @@
       {
         "name": "META",
         "symbol": "META",
-        "change": 2.61,
-        "price": "$628.39",
+        "change": 1.01,
+        "price": "$634.74",
         "listed": true,
         "tags": [
           "Llama 4事件",
@@ -2721,15 +2721,15 @@
         "metrics": [
           {
             "label": "最新价",
-            "value": "$628.39"
+            "value": "$634.74"
           },
           {
             "label": "单日涨跌",
-            "value": "+2.61%"
+            "value": "+1.01%"
           },
           {
             "label": "7日涨跌",
-            "value": "+9.83%"
+            "value": "+10.94%"
           },
           {
             "label": "30日涨跌",
@@ -2793,7 +2793,7 @@
       }
     ]
   },
-  "dataTime": "2026-04-10 22:18 BJT",
+  "dataTime": "2026-04-10 22:36 BJT",
   "_meta": {
     "sourceType": "heavy_analysis",
     "generatedAt": "2026-04-10T18:01:00+08:00",

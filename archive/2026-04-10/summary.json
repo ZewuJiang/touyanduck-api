@@ -1,9 +1,9 @@
 {
   "date": "2026-04-10",
-  "updatedAt": "2026-04-10T22:19:14+08:00",
+  "updatedAt": "2026-04-10T22:37:09+08:00",
   "sentiment": {
-    "score": 60,
-    "label": "中性"
+    "score": 62,
+    "label": "偏贪婪"
   },
   "risk": {
     "score": 80,
@@ -14,29 +14,29 @@
     "yellow": 3,
     "green": 3
   },
-  "coreEvent": "美股反弹动能分化道指转跌，CPI+伊斯兰堡谈判双重催化逼近",
+  "coreEvent": "CPI+大行财报超级数据日，美股科技主导反弹但分化加剧",
   "usMarkets": {
     "sp500": {
-      "price": 6828.33,
-      "change": 0.05
+      "price": 6837.3,
+      "change": 0.19
     },
     "nasdaq": {
-      "price": 22921.44,
-      "change": 0.43
+      "price": 22954.26,
+      "change": 0.58
     },
     "vix": {
-      "price": 19.04,
-      "change": -2.31
+      "price": 18.95,
+      "change": -2.77
     }
   },
   "topMovers": [
     {
-      "name": "GOOGL",
-      "change": 1.77,
+      "name": "AMZN",
+      "change": 2.52,
       "reason": ""
     }
   ],
-  "smartMoneySummary": "段永平: 4/10宣布暂别雪球，此前已启动泡泡玛特sell put并力…；ARK Invest: 4/9买入$11.4M TSLA，4/7买入$13M HOO…；伯克希尔: Greg Abel 4/1接任CEO重启回购，个人投$15.…",
+  "smartMoneySummary": "段永平: 4/10宣布暂别雪球，4/9启动泡泡玛特sell put(保…；ARK Invest: 本周累计买入TSLA约$2780万+HOOD $1270万，…；桥水/Dalio: 4/9 Dalio警告距世界大战仅4步(发布13步周期框架)…",
   "actionSummary": "暂无明确行动建议",
   "briefingUrl": "archive/2026-04-10/briefing.md"
 }
