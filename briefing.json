@@ -1,131 +1,131 @@
 {
-  "date": "2026-04-11",
-  "takeaway": "【VIX腰斩】至18.95确认恐慌退潮，但【黄金$4779红灯】+【DXY破99】暗示避险资金并未回流美元资产——下周【伊斯兰堡谈判】结果与【银行财报指引】将决定反弹能否延续为趋势",
+  "date": "2026-04-12",
+  "takeaway": "【VIX 19.23黄灯】美股在周五小幅回落，八连阳动能消退——但【黄金$4749依然红灯】+【DXY 98.71持续弱势】暗示避险逻辑未解除；本周真正的试金石是【伊斯兰堡谈判】（4/11正式启动）与【财报季密集期】（GS/BAC/NFLX/ASML下周齐发），两者结果将决定反弹能否升级为趋势",
   "timeStatus": {
-    "bjt": "23:43",
-    "est": "11:43",
+    "bjt": "01:13",
+    "est": "13:13",
     "marketStatus": "美股休市",
     "refreshInterval": "每日更新"
   },
   "coreEvent": {
-    "title": "VIX单周暴跌44%叠加DXY跌破99：风险偏好回归但美元信用裂痕初现",
+    "title": "美伊谈判伊斯兰堡正式开场+Meta Muse Spark闭源转型：两条主线重定价",
     "chain": [
       {
-        "title": "美伊停火4/8生效但随即遇阻",
-        "brief": "Trump指责伊朗违约，伊斯兰堡谈判4/11启动，地缘风险从热战转向谈判博弈阶段",
+        "title": "美伊谈判4/11伊斯兰堡正式启动",
+        "brief": "Vance率团与伊朗高级谈判代表展开首轮面对面会谈，停火框架\"伊斯兰堡协议\"草案浮出，能否成功直接决定霍尔木兹封锁解除和油价中枢走向",
         "source": "AP News",
-        "url": "https://apnews.com/live/iran-war-israel-trump-04-08-2026",
+        "url": "https://apnews.com/live/iran-war-israel-trump-04-11-2026",
         "source_count": 5
       },
       {
-        "title": "CPI+大行财报超级数据日落地",
-        "brief": "4/10公布CPI预期3.3%/核心2.7%+JPM/WFC/BLK财报集中发布，财报季正式开启",
-        "source": "BLS",
-        "url": "https://www.bls.gov/cpi/",
+        "title": "Meta放弃Llama开源路线发布专有模型Muse Spark",
+        "brief": "4/8 Meta Superintelligence Labs推出Muse Spark，首次采用闭源专有路线，并签署210亿美元CoreWeave算力协议，AI战略从开源生态转向与OpenAI/Google正面对抗",
+        "source": "Meta Newsroom",
+        "url": "https://about.fb.com/news/2026/04/introducing-muse-spark-meta-superintelligence-labs/",
         "source_count": 4
       },
       {
-        "title": "DXY跌破99创年内新低",
-        "brief": "DXY至98.56，黄金$4779同步走强，资金流出美元体系信号明确，非典型risk-on格局",
-        "source": "Trading Economics",
-        "url": "https://tradingeconomics.com/dxy:cur",
+        "title": "周五美股八连阳动能消退小幅回落",
+        "brief": "标普500收跌0.11%至6816，道指跌0.56%，纳指仍收涨0.35%，科技强于价值，本周累涨格局未变",
+        "source": "Google Finance",
+        "url": "https://www.google.com/finance/quote/.INX:INDEXSP",
         "source_count": 2
       },
       {
-        "title": "亚太全线大涨日经创周度最大涨幅",
-        "brief": "日经+2.63%(+1468点)，深证+2.24%创业板创四年新高，北向净流入约85亿，DXY破99利好新兴市场",
-        "source": "金融界",
-        "url": "https://stock.jrj.com.cn/2026/04/10161356692327.shtml",
-        "source_count": 4
+        "title": "Dalio升级警告：美国面临货币体系崩溃而非仅衰退",
+        "brief": "桥水创始人4/11警告美债被抛售+美元暴跌已显示去美元化信号，若赤字不控制在GDP的3%以内，后果将远超经济衰退——为金价红灯提供宏观注脚",
+        "source": "界面新闻",
+        "url": "https://www.jiemian.com/article/12606792.html",
+        "source_count": 3
       },
       {
-        "title": "段永平暂别雪球投资信号集中释放",
-        "brief": "暂别前密集操作：泡泡玛特sell put建仓+力挺PDD估值(1400亿扣现金5年回本)，市场解读为长期信心表态",
-        "source": "雪球",
-        "url": "https://xueqiu.com/u/1247347556",
-        "source_count": 4
+        "title": "ARK大幅轮仓：买PLTR $5.9M，同步卖AMD $5.9M",
+        "brief": "4/10 ARK全系基金同步大买Palantir(ARKK $5.9M)并同步清减AMD，反映Cathie Wood看好政企AI落地端（PLTR AIP）而对AI硬件竞争格局趋于保守",
+        "source": "cathiesark.com",
+        "url": "https://cathiesark.com/ark-funds-combined/trades",
+        "source_count": 3
       }
     ]
   },
   "globalReaction": [
     {
       "name": "标普500",
-      "value": "6,837.30",
-      "direction": "up",
-      "note": "本周累涨4.7%八连阳"
+      "value": "-0.11%",
+      "direction": "down",
+      "note": "八连阳后小幅回落整固"
     },
     {
       "name": "纳斯达克",
-      "value": "22,954.26",
+      "value": "+0.35%",
       "direction": "up",
-      "note": "本周累涨6.3%领跑"
-    },
-    {
-      "name": "布伦特原油",
-      "value": "$96.08",
-      "direction": "up",
-      "note": "黄灯区间距$100仅4%"
+      "note": "科技仍强，NVDA+2.61%领涨"
     },
     {
       "name": "黄金",
-      "value": "$4,779",
-      "direction": "up",
-      "note": "红灯区间避险+弱美元双驱动"
+      "value": "$4,748.72",
+      "direction": "down",
+      "note": "红灯区间，仍持续高位"
     },
     {
       "name": "10Y美债",
       "value": "4.31%",
-      "direction": "up",
-      "note": "黄灯区间期限溢价抬升"
+      "direction": "flat",
+      "note": "黄灯区间，期限溢价稳定"
+    },
+    {
+      "name": "布伦特原油",
+      "value": "$95.20",
+      "direction": "down",
+      "note": "谈判预期压制，黄灯中段"
     },
     {
       "name": "BTC",
-      "value": "$72,943",
+      "value": "$73,035",
       "direction": "up",
-      "note": "周度温和跟涨弹性弱于美股"
+      "note": "重返7.3万弱美元利好"
     }
   ],
   "coreJudgments": [
     {
-      "title": "八连阳反弹结构强劲但弱美元暴露隐忧",
-      "confidence": 72,
-      "logic": "VIX从33.82腰斩至18.95 → 恐慌退潮推动SPX周涨4.7% → 但DXY破99+黄金$4779说明资金逃离美元而非回流美股",
-      "keyActor": "美联储/全球央行",
+      "title": "伊斯兰堡谈判成败决定本周最大风险变量",
+      "confidence": 70,
+      "logic": "4/11谈判正式启动，霍尔木兹封锁持续 → 布伦特$95距$100仅5% → 若谈判破裂油价突破$100将重燃通胀预期、压缩降息空间",
+      "keyActor": "Vance/伊朗谈判代表团",
       "references": [
         {
-          "name": "VIX与SPX周度表现",
-          "summary": "VIX单周降幅44%为年内最大，SPX八连阳累涨4.7%，纳指涨6.3%领跑",
-          "url": "https://www.cboe.com/vix"
-        }
-      ],
-      "probability": "中可能性",
-      "trend": "上升"
-    },
-    {
-      "title": "下周伊朗谈判+科技财报双轨定价",
-      "confidence": 65,
-      "logic": "伊斯兰堡谈判结果决定油价中枢 → 布伦特$96若破$100将重燃通胀预期 → 科技股估值扩张逻辑受阻",
-      "keyActor": "Trump/伊朗代表团",
-      "references": [
-        {
-          "name": "伊斯兰堡谈判启动",
-          "summary": "4/11谈判启动，Trump此前指责伊朗违约，谈判成败决定地缘风险溢价走向",
-          "url": "https://apnews.com/live/iran-war-israel-trump-04-08-2026"
+          "name": "AP News / NPR 伊斯兰堡谈判实时报道",
+          "summary": "美伊双方4/11正式面对面会谈，讨论停火框架和霍尔木兹开放，谈判前景仍高度不确定",
+          "url": "https://www.npr.org/2026/04/11/nx-s1-5781760/pakistan-hosts-peace-talks-us-iran"
         }
       ],
       "probability": "中可能性",
       "trend": "稳定"
     },
     {
-      "title": "弱美元周期开启利好非美资产和黄金",
-      "confidence": 70,
-      "logic": "DXY破99触发趋势信号 → 资金向黄金/非美市场再配置 → 中期利好A股北向流入和港股估值修复",
-      "keyActor": "全球央行/主权基金",
+      "title": "Meta闭源转型重构AI赛道估值逻辑",
+      "confidence": 65,
+      "logic": "Muse Spark闭源+$21B算力协议 → Meta AI战略从开源生态转向直接对抗GPT/Gemini → 开源路线的护城河叙事需重新评估",
+      "keyActor": "Mark Zuckerberg / Alexandr Wang",
       "references": [
         {
-          "name": "北向资金周度流入",
-          "summary": "4/10单日北向净流入85亿，弱美元环境下人民币资产吸引力提升",
-          "url": "https://www.hkex.com.hk"
+          "name": "Meta Newsroom Muse Spark发布公告",
+          "summary": "Meta首款Superintelligence Labs产品，多模态+并行多代理，部署于WhatsApp/Instagram/Facebook全平台",
+          "url": "https://about.fb.com/news/2026/04/introducing-muse-spark-meta-superintelligence-labs/"
+        }
+      ],
+      "probability": "高可能性",
+      "trend": "上升"
+    },
+    {
+      "title": "财报季指引质量将验证八连阳的含金量",
+      "confidence": 68,
+      "logic": "GS/BAC/NFLX/ASML等下周集中发布 → 若银行信贷质量恶化或科技资本开支指引下修 → 当前SPX 6800估值将缺乏基本面支撑",
+      "keyActor": "David Solomon (GS) / Jensen Huang (NVDA Q1预期)",
+      "references": [
+        {
+          "name": "Advisor Perspectives 10Y国债收益率快照",
+          "summary": "4/10 10Y收益率4.31%，2Y收3.81%，利差收窄暗示短端定价偏鸽",
+          "url": "https://www.advisorperspectives.com/dshort/updates/2026/04/10/treasury-yields-snapshot-april-10-2026"
         }
       ],
       "probability": "中可能性",
@@ -133,34 +133,34 @@
     }
   ],
   "actionHints": [],
-  "sentimentScore": 64,
+  "sentimentScore": 62,
   "sentimentLabel": "偏贪婪",
   "marketSummaryPoints": [
-    "SPX八连阳周涨4.7%但成交量未见显著放大，反弹质量有待下周验证",
-    "VIX从33.82暴跌至18.95跌幅44%，恐慌情绪已基本出清，但黄金$4779红灯说明深层不安未消",
-    "DXY跌破99至98.56年内新低，弱美元格局利好非美资产和大宗商品",
-    "A股上证盘中站上4000点但未守住收于3986，创业板创四年新高确认成长风格占优",
-    "财报季开局：JPM/WFC/BLK集中发布，银行信贷质量指引成为下周市场核心定价因子"
+    "周五美股小幅分化：纳指+0.35%/标普-0.11%/道指-0.56%，科技强于价值延续上周主线",
+    "VIX 19.23黄灯区间，短期恐慌已出清但弱美元+金价红灯显示深层结构性担忧未消",
+    "Meta Muse Spark闭源发布为AI赛道注入新变量：开源生态核心推动者转向闭源对抗路线",
+    "A股周五全线收涨：上证+0.51%/深证+2.24%，创业板创四年新高，弱美元驱动北向流入持续",
+    "伊斯兰堡谈判4/11正式启动——油价走势和降息预期的双重定价节点，是下周最核心变量"
   ],
   "smartMoney": [
     {
-      "source": "段永平",
-      "action": "4/10宣布暂别雪球，此前密集操作：泡泡玛特sell put建仓+公开力挺PDD估值(1400亿扣现金5年回本)",
-      "signal": "bullish"
-    },
-    {
       "source": "ARK Invest",
-      "action": "本周累计买入TSLA约$2780万+HOOD $1270万，逆势加仓成长标的",
+      "action": "4/10全系基金同步大买PLTR $5.9M(ARKK)，同步减持AMD $5.9M——政企AI落地取代硬件算力成为ARK最新押注",
       "signal": "bullish"
     },
     {
       "source": "桥水/Dalio",
-      "action": "4/9发布13步世界大战周期框架，警告当前距战争仅4步，系统性风险研判偏悲观",
+      "action": "4/11升级警告：美国正面临货币体系崩溃（非仅衰退），呼吁国会将赤字控制至GDP 3%以内，判断去美元化进程已实质性启动",
       "signal": "bearish"
     },
     {
+      "source": "段永平",
+      "action": "4/10宣布暂别雪球，此前密集操作：泡泡玛特sell put布局（称保险公司开张）+公开力挺PDD估值（1400亿5年回本），信号在离场前集中释放",
+      "signal": "bullish"
+    },
+    {
       "source": "伯克希尔",
-      "action": "发行2723亿日元债+加入DFC海上再保险计划，以低成本日元负债扩张保险浮存金",
+      "action": "发行2723亿日元债扩张日本保险业务+加入DFC霍尔木兹海上再保险计划，Greg Abel接任后积极拓展非美元资产配置",
       "signal": "neutral"
     }
   ],
@@ -175,22 +175,22 @@
     },
     {
       "name": "Cathie Wood · ARK旗舰",
-      "holdings": "TSLA 10.5% | CRSP 6.3% | TEM 5.0% | SHOP 4.7% | COIN 4.3% · 本周大举加仓TSLA+HOOD"
+      "holdings": "TSLA 10.5% | CRSP 6.3% | TEM 5.0% | SHOP 4.7% | COIN 4.3% · 4/10大幅轮仓买PLTR卖AMD"
     }
   ],
   "riskPoints": [
-    "伊斯兰堡谈判若破裂，布伦特$96距$100仅4%，突破后将重新点燃通胀预期并压缩降息空间",
-    "DXY跌破99后若加速下行，可能引发外资抛售美债，10Y收益率脱离基本面上行",
-    "八连阳后SPX短期超买，下周若财报指引不及预期或谈判恶化，回调幅度可能放大"
+    "伊斯兰堡谈判若破裂，布伦特$95距$100仅5%，突破后通胀预期二次抬头将压缩今年降息空间",
+    "Dalio警告货币体系崩溃风险+DXY 98.71持续弱势，若美债遭进一步抛售10Y收益率可能脱锚上行",
+    "Meta Muse Spark闭源转型叠加财报季指引，若AI货币化速度验证失败，AI板块高估值将承受重估压力"
   ],
-  "riskNote": "黄金$4779红灯+DXY破99年内新低构成美元信用裂痕信号，下周伊斯兰堡谈判+财报季密集期双重催化，八连阳后市场对利空敏感度处于高位",
-  "dataTime": "2026-04-11 23:57 BJT",
-  "audioUrl": "cloud://cloud1-3g6wj06h84f38ea8.636c-cloud1-3g6wj06h84f38ea8-1418169528/audio/briefing-2026-04-11.mp3",
-  "audioFile": "briefing-2026-04-11.mp3",
-  "voiceText": "今天是四月十一号，星期六。这是投研鸭每日简报，周末回顾版。\n\n本周最核心的变化，是恐慌指数VIX单周暴跌了百分之四十四，从高位腰斩至十八点九五。与此同时，美元指数跌破九十九关口，创下年内新低。市场恐慌明显退潮，但美元的走弱，暴露出资金对美元信用的担忧。\n\n来看市场表现。标普五百指数本周累计上涨百分之四点七，走出八连阳。纳斯达克涨幅更大，达到百分之六点三。黄金价格则飙升至四千七百七十九美元，持续亮红灯。值得注意的是，避险资金涌向了黄金，却没有回流美元，这个背离信号不容忽视。\n\n关键判断有两点。第一，八连阳反弹虽然强势，但弱美元格局暴露出深层隐忧，反弹的持续性仍需验证。第二，下周有两条主线值得关注，一是伊朗核谈判在伊斯兰堡的进展，二是美国银行业财报季的业绩指引。这两条线将共同决定市场方向。此外，弱美元环境整体利好非美资产。\n\n风险方面需要警惕三点。伊斯兰堡谈判若破裂，布伦特原油可能冲击一百美元。美元指数若加速下行，可能引发美债抛售。同时八连阳之后市场已进入超买区间，短期回调压力在积累。\n\n以上是今天的投研鸭简报，明天见。",
+  "riskNote": "黄金$4749红灯+DXY 98.71弱势+Dalio货币体系崩溃警告构成三重结构性压力信号，下周伊斯兰堡谈判+财报季双轨定价，科技高估值对利空的敏感度处于高位",
+  "dataTime": "2026-04-12 01:35 BJT",
+  "audioUrl": "",
+  "audioFile": "briefing-2026-04-12.mp3",
+  "voiceText": "",
   "_meta": {
-    "sourceType": "weekend_insight",
-    "generatedAt": "2026-04-11T23:43:00+08:00",
+    "sourceType": "heavy_analysis",
+    "generatedAt": "2026-04-12T01:13:00+08:00",
     "skillVersion": "v11.0"
   }
 }

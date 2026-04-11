@@ -1,8 +1,8 @@
 {
   "date": "2026-04-12",
-  "updatedAt": "2026-04-12T00:00:02+08:00",
+  "updatedAt": "2026-04-12T01:36:01+08:00",
   "sentiment": {
-    "score": 64,
+    "score": 62,
     "label": "偏贪婪"
   },
   "risk": {
@@ -14,29 +14,34 @@
     "yellow": 3,
     "green": 3
   },
-  "coreEvent": "VIX单周暴跌44%叠加DXY跌破99：风险偏好回归但美元信用裂痕初现",
+  "coreEvent": "美伊谈判伊斯兰堡正式开场+Meta Muse Spark闭源转型：两条主线重定价",
   "usMarkets": {
     "sp500": {
-      "price": 6837.3,
-      "change": 0.19
+      "price": 6816.89,
+      "change": -0.11
     },
     "nasdaq": {
-      "price": 22954.26,
-      "change": 0.58
+      "price": 22902.9,
+      "change": 0.35
     },
     "vix": {
-      "price": 18.95,
-      "change": -2.77
+      "price": 19.23,
+      "change": -1.33
     }
   },
   "topMovers": [
     {
-      "name": "AMZN",
-      "change": 2.52,
+      "name": "NVDA",
+      "change": 2.61,
+      "reason": ""
+    },
+    {
+      "name": "MSFT",
+      "change": -0.59,
       "reason": ""
     }
   ],
-  "smartMoneySummary": "段永平: 4/10宣布暂别雪球，此前密集操作：泡泡玛特sell put…；ARK Invest: 本周累计买入TSLA约$2780万+HOOD $1270万，…；桥水/Dalio: 4/9发布13步世界大战周期框架，警告当前距战争仅4步，系统…",
+  "smartMoneySummary": "ARK Invest: 4/10全系基金同步大买PLTR $5.9M(ARKK)，同…；桥水/Dalio: 4/11升级警告：美国正面临货币体系崩溃（非仅衰退），呼吁国…；段永平: 4/10宣布暂别雪球，此前密集操作：泡泡玛特sell put…",
   "actionSummary": "暂无明确行动建议",
   "briefingUrl": "archive/2026-04-12/briefing.md"
 }
