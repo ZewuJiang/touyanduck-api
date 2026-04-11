@@ -1,116 +1,115 @@
 {
-  "date": "2026-04-10",
-  "takeaway": "美伊停火后【反弹延续第八日】科技领涨纳指+0.58%，【VIX降至18.95】逼近绿灯但【黄金$4779红灯】避险未退——今晚【CPI】+明日【伊斯兰堡谈判】双重催化决定方向",
+  "date": "2026-04-11",
+  "takeaway": "【VIX腰斩】至18.95确认恐慌退潮，但【黄金$4779红灯】+【DXY破99】暗示避险资金并未回流美元资产——下周【伊斯兰堡谈判】结果与【银行财报指引】将决定反弹能否延续为趋势",
+  "timeStatus": {
+    "bjt": "23:43",
+    "est": "11:43",
+    "marketStatus": "美股休市",
+    "refreshInterval": "每日更新"
+  },
   "coreEvent": {
-    "title": "CPI+大行财报超级数据日，美股科技主导反弹但分化加剧",
+    "title": "VIX单周暴跌44%叠加DXY跌破99：风险偏好回归但美元信用裂痕初现",
     "chain": [
       {
-        "title": "纳指+0.58%科技领涨道指微跌",
-        "brief": "AMZN+2.52%/NVDA+1.87%领涨M7全线飘红，但道指-0.22%蓝筹拖累，VIX降至18.95逼近绿灯区间",
-        "source": "Google Finance",
-        "url": "https://www.google.com/finance/quote/.IXIC:INDEXNASDAQ",
-        "source_count": 3
-      },
-      {
-        "title": "CPI今晚公布+JPM/WFC/BLK三大行财报同日",
-        "brief": "3月CPI预期整体3.3%/核心2.7%，若超预期将打压降息预期；JPMorgan/Wells Fargo/BlackRock Q1财报今日发布开启财报季",
-        "source": "BLS",
-        "url": "https://www.bls.gov/cpi/",
-        "source_count": 4
-      },
-      {
-        "title": "美伊伊斯兰堡谈判明日启动",
-        "brief": "停火协议4/8生效后伊朗指控违约，巴基斯坦斡旋下明日将在伊斯兰堡启动正式谈判，成败决定油价中枢",
+        "title": "美伊停火4/8生效但随即遇阻",
+        "brief": "Trump指责伊朗违约，伊斯兰堡谈判4/11启动，地缘风险从热战转向谈判博弈阶段",
         "source": "AP News",
         "url": "https://apnews.com/live/iran-war-israel-trump-04-08-2026",
         "source_count": 5
       },
       {
-        "title": "亚太全线收涨日经大涨2.63%",
-        "brief": "日经+2.63%(+1468点)，深证+2.24%创业板创四年新高，上证盘中站上4000点但收盘退至3986，北向资金净流入约85亿",
+        "title": "CPI+大行财报超级数据日落地",
+        "brief": "4/10公布CPI预期3.3%/核心2.7%+JPM/WFC/BLK财报集中发布，财报季正式开启",
+        "source": "BLS",
+        "url": "https://www.bls.gov/cpi/",
+        "source_count": 4
+      },
+      {
+        "title": "DXY跌破99创年内新低",
+        "brief": "DXY至98.56，黄金$4779同步走强，资金流出美元体系信号明确，非典型risk-on格局",
+        "source": "Trading Economics",
+        "url": "https://tradingeconomics.com/dxy:cur",
+        "source_count": 2
+      },
+      {
+        "title": "亚太全线大涨日经创周度最大涨幅",
+        "brief": "日经+2.63%(+1468点)，深证+2.24%创业板创四年新高，北向净流入约85亿，DXY破99利好新兴市场",
         "source": "金融界",
         "url": "https://stock.jrj.com.cn/2026/04/10161356692327.shtml",
         "source_count": 4
       },
       {
-        "title": "段永平暂别雪球投资信号完整释放",
-        "brief": "4/10宣布长时间不上雪球，此前已启动泡泡玛特sell put+力挺PDD估值，投资观点在离场前集中输出",
+        "title": "段永平暂别雪球投资信号集中释放",
+        "brief": "暂别前密集操作：泡泡玛特sell put建仓+力挺PDD估值(1400亿扣现金5年回本)，市场解读为长期信心表态",
         "source": "雪球",
         "url": "https://xueqiu.com/u/1247347556",
         "source_count": 4
-      },
-      {
-        "title": "DXY跌破99美元指数年内新低",
-        "brief": "DXY 98.56为年内新低，停火降风险偏好+降息预期微升共同压制美元，利好新兴市场和大宗商品重定价",
-        "source": "Trading Economics",
-        "url": "https://tradingeconomics.com/dxy:cur",
-        "source_count": 2
       }
     ]
   },
   "globalReaction": [
     {
       "name": "标普500",
-      "value": "+0.19%",
+      "value": "6,837.30",
       "direction": "up",
-      "note": "科技领涨延续反弹"
+      "note": "本周累涨4.7%八连阳"
     },
     {
       "name": "纳斯达克",
-      "value": "+0.58%",
+      "value": "22,954.26",
       "direction": "up",
-      "note": "AMZN/NVDA双引擎"
+      "note": "本周累涨6.3%领跑"
     },
     {
       "name": "布伦特原油",
       "value": "$96.08",
       "direction": "up",
-      "note": "停火谈判前窄幅波动"
+      "note": "黄灯区间距$100仅4%"
     },
     {
       "name": "黄金",
       "value": "$4,779",
       "direction": "up",
-      "note": "红灯区间避险未退"
+      "note": "红灯区间避险+弱美元双驱动"
     },
     {
       "name": "10Y美债",
       "value": "4.31%",
       "direction": "up",
-      "note": "CPI前收益率微升"
+      "note": "黄灯区间期限溢价抬升"
     },
     {
       "name": "BTC",
       "value": "$72,943",
       "direction": "up",
-      "note": "站稳7.3万盘中涨1.6%"
+      "note": "周度温和跟涨弹性弱于美股"
     }
   ],
   "coreJudgments": [
     {
-      "title": "CPI今晚公布将决定八连阳后走势方向",
-      "confidence": 78,
-      "logic": "八连阳积累获利盘 → 核心CPI若>0.3%环比 → 降息预期推迟+10Y上行 → 成长股估值承压终结连涨",
-      "keyActor": "BLS/美联储",
+      "title": "八连阳反弹结构强劲但弱美元暴露隐忧",
+      "confidence": 72,
+      "logic": "VIX从33.82腰斩至18.95 → 恐慌退潮推动SPX周涨4.7% → 但DXY破99+黄金$4779说明资金逃离美元而非回流美股",
+      "keyActor": "美联储/全球央行",
       "references": [
         {
-          "name": "Trading Economics",
-          "summary": "3月CPI预期整体3.3%/核心2.7%，10Y美债4.31%反映市场等待数据落地",
-          "url": "https://tradingeconomics.com/united-states/inflation-cpi"
+          "name": "VIX与SPX周度表现",
+          "summary": "VIX单周降幅44%为年内最大，SPX八连阳累涨4.7%，纳指涨6.3%领跑",
+          "url": "https://www.cboe.com/vix"
         }
       ],
       "probability": "中可能性",
-      "trend": "稳定"
+      "trend": "上升"
     },
     {
-      "title": "伊斯兰堡谈判成败决定油价和地缘溢价方向",
-      "confidence": 70,
-      "logic": "停火脆弱(Trump指责伊朗违约) → 明日伊斯兰堡谈判启动 → 成功则油价回$85-90/失败则冲$105+ → 直接影响通胀预期和降息空间",
-      "keyActor": "美伊谈判代表/巴基斯坦",
+      "title": "下周伊朗谈判+科技财报双轨定价",
+      "confidence": 65,
+      "logic": "伊斯兰堡谈判结果决定油价中枢 → 布伦特$96若破$100将重燃通胀预期 → 科技股估值扩张逻辑受阻",
+      "keyActor": "Trump/伊朗代表团",
       "references": [
         {
-          "name": "AP News",
-          "summary": "美伊以三方在巴基斯坦斡旋下启动伊斯兰堡正式谈判，Trump指责伊朗做得非常差",
+          "name": "伊斯兰堡谈判启动",
+          "summary": "4/11谈判启动，Trump此前指责伊朗违约，谈判成败决定地缘风险溢价走向",
           "url": "https://apnews.com/live/iran-war-israel-trump-04-08-2026"
         }
       ],
@@ -118,15 +117,15 @@
       "trend": "稳定"
     },
     {
-      "title": "DXY破99+亚太强势暗示资金风格切换加速",
-      "confidence": 68,
-      "logic": "DXY跌至98.56年内新低 → 亚太全线大涨(日经+2.63%/创业板+3.78%) → 资金从美元避险回流风险资产 → 新兴市场和大宗相对受益窗口期",
-      "keyActor": "全球资金流",
+      "title": "弱美元周期开启利好非美资产和黄金",
+      "confidence": 70,
+      "logic": "DXY破99触发趋势信号 → 资金向黄金/非美市场再配置 → 中期利好A股北向流入和港股估值修复",
+      "keyActor": "全球央行/主权基金",
       "references": [
         {
-          "name": "金融界",
-          "summary": "A股创业板指涨3.78%创四年新高，北向资金净流入约85亿元",
-          "url": "https://stock.jrj.com.cn/2026/04/10161356692327.shtml"
+          "name": "北向资金周度流入",
+          "summary": "4/10单日北向净流入85亿，弱美元环境下人民币资产吸引力提升",
+          "url": "https://www.hkex.com.hk"
         }
       ],
       "probability": "中可能性",
@@ -134,33 +133,34 @@
     }
   ],
   "actionHints": [],
-  "sentimentScore": 62,
+  "sentimentScore": 64,
   "sentimentLabel": "偏贪婪",
   "marketSummaryPoints": [
-    "美股盘中科技主导——纳指+0.58%由AMZN+2.52%/NVDA+1.87%领涨，道指-0.22%蓝筹微弱，VIX降至18.95逼近绿灯",
-    "亚太4/10全线收涨，日经+2.63%(+1468点)/KOSPI+1.40%/深证+2.24%/创业板创四年新高",
-    "DXY跌破99至98.56年内新低+黄金$4779红灯，避险与风险偏好信号仍然矛盾",
-    "今晚CPI+JPM/WFC/BLK大行财报+明日伊斯兰堡谈判，三重催化密集轰炸"
+    "SPX八连阳周涨4.7%但成交量未见显著放大，反弹质量有待下周验证",
+    "VIX从33.82暴跌至18.95跌幅44%，恐慌情绪已基本出清，但黄金$4779红灯说明深层不安未消",
+    "DXY跌破99至98.56年内新低，弱美元格局利好非美资产和大宗商品",
+    "A股上证盘中站上4000点但未守住收于3986，创业板创四年新高确认成长风格占优",
+    "财报季开局：JPM/WFC/BLK集中发布，银行信贷质量指引成为下周市场核心定价因子"
   ],
   "smartMoney": [
     {
       "source": "段永平",
-      "action": "4/10宣布暂别雪球，4/9启动泡泡玛特sell put(保险公司开张)并力挺PDD估值(1400亿扣现金5年回本)",
+      "action": "4/10宣布暂别雪球，此前密集操作：泡泡玛特sell put建仓+公开力挺PDD估值(1400亿扣现金5年回本)",
       "signal": "bullish"
     },
     {
       "source": "ARK Invest",
-      "action": "本周累计买入TSLA约$2780万+HOOD $1270万，4/9新买WGS卖出BWXT，连续加仓成长股",
+      "action": "本周累计买入TSLA约$2780万+HOOD $1270万，逆势加仓成长标的",
       "signal": "bullish"
     },
     {
       "source": "桥水/Dalio",
-      "action": "4/9 Dalio警告距世界大战仅4步(发布13步周期框架)，认为市场严重低估伊朗冲突持续性",
+      "action": "4/9发布13步世界大战周期框架，警告当前距战争仅4步，系统性风险研判偏悲观",
       "signal": "bearish"
     },
     {
       "source": "伯克希尔",
-      "action": "发行2723亿日元债资助东京海上收购，加入美国DFC海上再保险计划($400亿霍尔木兹保障)",
+      "action": "发行2723亿日元债+加入DFC海上再保险计划，以低成本日元负债扩张保险浮存金",
       "signal": "neutral"
     }
   ],
@@ -179,18 +179,18 @@
     }
   ],
   "riskPoints": [
-    "停火极度脆弱(Trump指责伊朗违约)，明日伊斯兰堡谈判若破裂布伦特将冲击$105+",
-    "八连阳后道指已微跌，CPI若超预期3.3%将触发集中获利了结+10Y上行",
-    "黄金$4779红灯+DXY跌破99，避险资金与股市乐观形成结构性背离——4月基金平均亏7.8%为四年最重"
+    "伊斯兰堡谈判若破裂，布伦特$96距$100仅4%，突破后将重新点燃通胀预期并压缩降息空间",
+    "DXY跌破99后若加速下行，可能引发外资抛售美债，10Y收益率脱离基本面上行",
+    "八连阳后SPX短期超买，下周若财报指引不及预期或谈判恶化，回调幅度可能放大"
   ],
-  "riskNote": "CPI+伊斯兰堡谈判+大行财报三重催化叠加八连阳获利盘，市场对利空敏感度处于高位，对冲基金4月平均亏损7.8%为四年最重",
-  "dataTime": "2026-04-10 22:36 BJT",
-  "audioUrl": "cloud://cloud1-3g6wj06h84f38ea8.636c-cloud1-3g6wj06h84f38ea8-1418169528/audio/briefing-2026-04-10.mp3",
-  "audioFile": "",
-  "voiceText": "",
+  "riskNote": "黄金$4779红灯+DXY破99年内新低构成美元信用裂痕信号，下周伊斯兰堡谈判+财报季密集期双重催化，八连阳后市场对利空敏感度处于高位",
+  "dataTime": "2026-04-11 23:57 BJT",
+  "audioUrl": "cloud://cloud1-3g6wj06h84f38ea8.636c-cloud1-3g6wj06h84f38ea8-1418169528/audio/briefing-2026-04-11.mp3",
+  "audioFile": "briefing-2026-04-11.mp3",
+  "voiceText": "今天是四月十一号，星期六。这是投研鸭每日简报，周末回顾版。\n\n本周最核心的变化，是恐慌指数VIX单周暴跌了百分之四十四，从高位腰斩至十八点九五。与此同时，美元指数跌破九十九关口，创下年内新低。市场恐慌明显退潮，但美元的走弱，暴露出资金对美元信用的担忧。\n\n来看市场表现。标普五百指数本周累计上涨百分之四点七，走出八连阳。纳斯达克涨幅更大，达到百分之六点三。黄金价格则飙升至四千七百七十九美元，持续亮红灯。值得注意的是，避险资金涌向了黄金，却没有回流美元，这个背离信号不容忽视。\n\n关键判断有两点。第一，八连阳反弹虽然强势，但弱美元格局暴露出深层隐忧，反弹的持续性仍需验证。第二，下周有两条主线值得关注，一是伊朗核谈判在伊斯兰堡的进展，二是美国银行业财报季的业绩指引。这两条线将共同决定市场方向。此外，弱美元环境整体利好非美资产。\n\n风险方面需要警惕三点。伊斯兰堡谈判若破裂，布伦特原油可能冲击一百美元。美元指数若加速下行，可能引发美债抛售。同时八连阳之后市场已进入超买区间，短期回调压力在积累。\n\n以上是今天的投研鸭简报，明天见。",
   "_meta": {
-    "sourceType": "heavy_analysis",
-    "generatedAt": "2026-04-10T22:30:00+08:00",
-    "skillVersion": "v10.5"
+    "sourceType": "weekend_insight",
+    "generatedAt": "2026-04-11T23:43:00+08:00",
+    "skillVersion": "v11.0"
   }
 }

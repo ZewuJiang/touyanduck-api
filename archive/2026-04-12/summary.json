@@ -1,0 +1,42 @@
+{
+  "date": "2026-04-12",
+  "updatedAt": "2026-04-12T00:00:02+08:00",
+  "sentiment": {
+    "score": 64,
+    "label": "偏贪婪"
+  },
+  "risk": {
+    "score": 80,
+    "level": "high"
+  },
+  "trafficLights": {
+    "red": 1,
+    "yellow": 3,
+    "green": 3
+  },
+  "coreEvent": "VIX单周暴跌44%叠加DXY跌破99：风险偏好回归但美元信用裂痕初现",
+  "usMarkets": {
+    "sp500": {
+      "price": 6837.3,
+      "change": 0.19
+    },
+    "nasdaq": {
+      "price": 22954.26,
+      "change": 0.58
+    },
+    "vix": {
+      "price": 18.95,
+      "change": -2.77
+    }
+  },
+  "topMovers": [
+    {
+      "name": "AMZN",
+      "change": 2.52,
+      "reason": ""
+    }
+  ],
+  "smartMoneySummary": "段永平: 4/10宣布暂别雪球，此前密集操作：泡泡玛特sell put…；ARK Invest: 本周累计买入TSLA约$2780万+HOOD $1270万，…；桥水/Dalio: 4/9发布13步世界大战周期框架，警告当前距战争仅4步，系统…",
+  "actionSummary": "暂无明确行动建议",
+  "briefingUrl": "archive/2026-04-12/briefing.md"
+}

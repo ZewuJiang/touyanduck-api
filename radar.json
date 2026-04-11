@@ -1,5 +1,5 @@
 {
-  "date": "2026-04-10",
+  "date": "2026-04-11",
   "predictions": [
     {
       "title": "美联储4月维持利率?",
@@ -69,35 +69,42 @@
   ],
   "riskScore": 80,
   "riskLevel": "high",
-  "riskAdvice": "黄金$4779红灯(避险定价极端)+布伦特$96+VIX 18.95三项黄灯——今晚CPI若确认通胀韧性(预期3.3%)叠加明日伊斯兰堡谈判不确定性，八连阳的获利回吐可能加速",
+  "riskAdvice": "黄金$4779红灯+DXY破99年内新低，美元信用裂痕是本周最值得警惕的深层信号——下周伊斯兰堡谈判结果将直接决定布伦特能否破$100红灯，这是通胀预期和降息路径的关键分水岭",
   "riskAlerts": [],
   "events": [
     {
-      "date": "周四(4/10)",
-      "title": "3月CPI今晚公布(预期整体3.3%/核心2.7%)+PCE物价指数同日发布，通胀验证日",
-      "impact": "high",
-      "source": "BLS",
-      "url": "https://www.bls.gov/cpi/"
-    },
-    {
-      "date": "周四(4/10)",
-      "title": "JPMorgan/Wells Fargo/BlackRock三大行Q1财报今日发布，开启财报季",
-      "impact": "high",
-      "source": "FactSet",
-      "url": ""
-    },
-    {
-      "date": "周五(4/11)",
-      "title": "美伊在伊斯兰堡启动正式停火谈判，结果将决定油价中枢和地缘溢价方向",
+      "date": "周一(4/14)",
+      "title": "伊斯兰堡谈判后续进展，谈判成败决定布伦特是否突破$100红灯，直接影响通胀预期",
       "impact": "high",
       "source": "AP News",
       "url": "https://apnews.com/live/iran-war-israel-trump-04-08-2026"
     },
     {
-      "date": "周五(4/11)",
-      "title": "密歇根大学消费者信心指数发布，检验消费者对通胀和关税的预期变化",
+      "date": "周一~周五",
+      "title": "财报季密集期：GS/BAC/NFLX/ASML等重磅财报，关注银行信贷质量+科技资本开支指引",
+      "impact": "high",
+      "source": "FactSet",
+      "url": ""
+    },
+    {
+      "date": "周二(4/15)",
+      "title": "美国3月零售销售数据发布，验证CPI降温后消费者实际支出是否同步走弱",
+      "impact": "high",
+      "source": "Census Bureau",
+      "url": ""
+    },
+    {
+      "date": "周三(4/16)",
+      "title": "美联储褐皮书发布，地方联储对经济活动的定性评估影响6月降息预期定价",
       "impact": "medium",
-      "source": "University of Michigan",
+      "source": "Federal Reserve",
+      "url": "https://www.federalreserve.gov/monetarypolicy/beige-book-default.htm"
+    },
+    {
+      "date": "周四(4/17)",
+      "title": "ECB利率决议，欧央行若鸽派表态将进一步压低美元强化弱美元周期逻辑",
+      "impact": "medium",
+      "source": "ECB",
       "url": ""
     }
   ],
@@ -406,10 +413,10 @@
       "footnote": "ARK每日披露持仓变动，本周累计买入TSLA约$2780万+HOOD $1270万+WGS $196万，TSLA目标价$4600(Robotaxi占60%估值)"
     }
   ],
-  "dataTime": "2026-04-10 22:36 BJT",
+  "dataTime": "2026-04-11 23:57 BJT",
   "_meta": {
-    "sourceType": "heavy_analysis",
-    "generatedAt": "2026-04-10T22:30:00+08:00",
-    "skillVersion": "v10.5"
+    "sourceType": "weekend_insight",
+    "generatedAt": "2026-04-11T23:43:00+08:00",
+    "skillVersion": "v11.0"
   }
 }
