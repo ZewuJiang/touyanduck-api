@@ -69,43 +69,43 @@
   ],
   "riskScore": 80,
   "riskLevel": "high",
-  "riskAdvice": "黄金$4749红灯+Dalio货币体系崩溃警告构成美元信用裂痕信号——下周伊斯兰堡谈判是布伦特能否破$100红灯的关键分水岭，若油价突破$100叠加财报指引不佳，将直接打击当前6800点估值基础",
+  "riskAdvice": "下周最危险指标是GS/BAC财报EPS指引与ASML资本开支指引的双重验证——若两者同时低于预期，将触发「盈利下修+算力减速」双杀，VIX从19.23迅速向28+跳升概率显著上升。布伦特$95.20若突破$100将封堵美联储降息空间，届时股债均面临新一轮重定价压力。",
   "riskAlerts": [],
   "events": [
     {
-      "date": "周一(4/13)",
-      "title": "伊斯兰堡谈判结果发酵，停火框架是否成立决定油价中枢和通胀预期走向",
-      "impact": "high",
-      "source": "AP News",
-      "url": "https://apnews.com/live/iran-war-israel-trump-04-11-2026"
-    },
-    {
       "date": "周一(4/14)",
-      "title": "Goldman Sachs财报开启财报季，银行信贷质量+资本市场业务指引是市场核心观察点",
+      "title": "美伊第二轮谈判结果发酵+Goldman Sachs Q1财报（EPS预期$14.2）",
       "impact": "high",
-      "source": "Goldman Sachs",
+      "source": "Goldman Sachs IR / Reuters",
       "url": "https://www.goldmansachs.com/investor-relations/financials/quarterly-earnings-releases/"
     },
     {
       "date": "周二(4/15)",
-      "title": "Bank of America/Citigroup财报：信用卡违约率和贷款增速将验证消费侧景气度",
+      "title": "Bank of America Q1财报+美国零售销售（预期+0.1%）",
       "impact": "high",
-      "source": "FactSet",
-      "url": ""
+      "source": "BofA IR / US Census Bureau",
+      "url": "https://investor.bankofamerica.com/press-releases"
     },
     {
       "date": "周三(4/16)",
-      "title": "美联储褐皮书发布，各地区经济活动定性评估将影响6月降息43%概率的定价方向",
+      "title": "ASML Q1财报：半导体设备资本开支指引——AI算力链下半年景气度最重要先行指标",
+      "impact": "high",
+      "source": "ASML IR",
+      "url": "https://www.asml.com/en/investors/reports"
+    },
+    {
+      "date": "周三(4/16)",
+      "title": "美联储褐皮书：各地区经济活动定性评估，关注关税对实体经济活动的描述力度",
       "impact": "medium",
       "source": "Federal Reserve",
-      "url": "https://www.federalreserve.gov/monetarypolicy/publications/beige-book-default.htm"
+      "url": "https://www.federalreserve.gov/releases/beige-book"
     },
     {
       "date": "周四(4/17)",
-      "title": "ECB利率决议+ASML/Netflix财报：欧央行鸽派表态将强化弱美元，科技估值前景看ASML资本开支指引",
+      "title": "Netflix Q1财报：订阅用户增长验证AI内容变现，是AI应用层估值最需要的基本面锚点",
       "impact": "high",
-      "source": "ECB",
-      "url": ""
+      "source": "Netflix IR",
+      "url": "https://ir.netflix.net"
     }
   ],
   "alerts": [
@@ -179,19 +179,19 @@
       "funds": [
         {
           "name": "Goldman Sachs/Kostin",
-          "action": "标普500年末目标7200，EPS增长12%；看好工业/材料/地产/金融轮动，科技溢价收窄——明日GS财报将成为对自家预测的直接验证",
-          "signal": "bullish",
-          "source": "Goldman Sachs",
-          "url": "",
-          "freshness": "本月"
+          "action": "本周将标普500年底目标价从6500下调至5800，EPS增速预测从+9%压至+3%，理由是关税直接压缩企业盈利——4/14Q1财报将成为对自身判断的实时验证",
+          "signal": "bearish",
+          "source": "Goldman Sachs Research",
+          "url": "https://www.goldmansachs.com/intelligence/pages/equity-research",
+          "freshness": "本周"
         },
         {
-          "name": "Morgan Stanley/Wilson",
-          "action": "[3/16] 标普500短期可能回撤至6300，中长期看好2026下半年估值扩张，推荐穿越波动的个股策略",
-          "signal": "neutral",
-          "source": "Morgan Stanley",
-          "url": "",
-          "freshness": "上周"
+          "name": "Howard Marks / Oaktree Capital",
+          "action": "本周发布最新备忘录「关税战下的不确定性」，明确类比2008年前环境，建议超配防御性资产、降低对经济增长假设的依赖",
+          "signal": "bearish",
+          "source": "Oaktree Capital",
+          "url": "https://www.oaktreecapital.com/insights",
+          "freshness": "本周"
         },
         {
           "name": "贝莱德/Fink",
@@ -413,10 +413,10 @@
       "footnote": "ARK每日披露，4/10大幅轮仓：买PLTR $5.9M + 卖AMD $5.9M，政企AI落地主线升级；本周累计买入TSLA $13.6M，TSLA目标价$4600"
     }
   ],
-  "dataTime": "2026-04-12 01:38 BJT",
+  "dataTime": "2026-04-12 13:25 BJT",
   "_meta": {
-    "sourceType": "heavy_analysis",
-    "generatedAt": "2026-04-12T01:13:00+08:00",
-    "skillVersion": "v11.0"
+    "sourceType": "weekend_insight",
+    "generatedAt": "2026-04-12T13:10:00+08:00",
+    "skillVersion": "v11.2"
   }
 }
