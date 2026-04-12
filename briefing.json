@@ -1,41 +1,48 @@
 {
   "date": "2026-04-12",
-  "takeaway": "本周美股遭遇【股债汇三杀】，美国例外论叙事出现裂缝——DXY跌破100、黄金创历史新高$4748、10年期美债收益率短暂失控均指向同一信号：全球资金正在重新定价美国资产风险溢价。【301条款调查升级】（60国产能过剩+医药100%关税）已令GS将标普EPS增速预测从+9%砍至+3%，估值支撑显著弱化。下周【财报季首周】（GS/BAC/ASML/Netflix集中披露）将成为市场自我修正的第一道检验——若财报指引下调幅度超过市场隐含预期，当前SPX 6816的点位将面临新一轮重定价压力；【美伊谈判】进展则决定油价能否继续成为通胀的次生变量。",
   "timeStatus": {
-    "bjt": "01:13",
-    "est": "13:13",
+    "bjt": "16:30",
+    "est": "04:30",
     "marketStatus": "美股休市",
     "refreshInterval": "每日更新"
   },
+  "takeaway": "【伊斯兰堡谈判破裂】Vance 21小时无协议空手返美，【停火岌岌可危】叠加【CPI 3.3%】创近两年新高——本周高盛/JPM财报开启季报季，是【美股连涨终结】还是盈利兜底的关键验证",
   "coreEvent": {
-    "title": "美国例外论裂缝确立：三杀信号+GS下调目标价+301调查升级，市场进入风险重定价周期",
+    "title": "谈判破裂+CPI超预期：停火脆弱与通胀压力同时升温",
     "chain": [
       {
-        "title": "美国301条款调查升级：60国产能过剩调查+医药关税100%",
-        "brief": "2026年3月USTR对中国等60国发起301条款调查（强迫劳动/产能过剩），4/2特朗普签行政令对进口专利药和制药成分加征100%关税，贸易战从「全面关税」转向「精准打击」新阶段",
-        "source": "US Trade Representative / Reuters",
-        "url": "https://ourtake.bakerbotts.com/post/102monp/trump-tariff-tracker-april-1-2026",
-        "source_count": 4
+        "title": "伊斯兰堡谈判21小时无协议，停火面临破裂",
+        "brief": "副总统Vance率团在巴基斯坦与伊朗谈判21小时后无果而终，停火延续存疑——霍尔木兹海峡能否重开成为本周最大风险敞口",
+        "source": "AP News",
+        "url": "https://apnews.com/article/iran-us-israel-trump-lebanon-april-11-2026-2be904aee3f804892336730279e054b9",
+        "source_count": 6
       },
       {
-        "title": "股债汇三杀，美国例外论叙事瓦解",
-        "brief": "DXY跌破100收98.71（2023年以来新低），黄金飙升至$4748历史高位，10Y美债收益率短暂失控后回落至4.31%，三资产同向走弱指向资本外流而非单纯避险",
-        "source": "Bloomberg / WSJ",
-        "url": "https://www.wsj.com/finance/investing/tariffs-dollar-treasuries-the-market-is-sending-a-warning-50b6b059",
+        "title": "3月CPI 3.3%创近两年新高，伊朗战争推高能源成本",
+        "brief": "CPI环比+0.9%为近年最大单月涨幅，能源分项暴涨驱动，核心CPI仍受控——但通胀趋势逆转打压降息预期",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/04/10/cpi-inflation-report-march-2026.html",
         "source_count": 5
       },
       {
-        "title": "Dalio 4/11升级警告：货币体系崩溃风险",
-        "brief": "Dalio警告美元体系性风险已进入新阶段；霍华德·马克斯同期发布备忘录，将当前环境类比2008年前「知道不够多」阶段",
-        "source": "Bridgewater / Oaktree Capital",
-        "url": "https://www.oaktreecapital.com/insights",
+        "title": "美股4/10小幅收跌，市场在谈判前保持谨慎",
+        "brief": "SPX -0.11%/道指-0.56%，纳指+0.35%科技相对抗跌，NVDA+2.61%领涨M7——市场在谈判结果揭晓前窄幅盘整",
+        "source": "Google Finance",
+        "url": "https://www.google.com/finance/quote/.INX:INDEXSP",
         "source_count": 3
       },
       {
-        "title": "GS熊市预警：标普500可能跌至5400，衰退情景下跌幅达20%",
-        "brief": "Goldman Sachs 4/7研究笔记发出熊市警告：若关税升级引发衰退，标普500可能从当前高点下跌约20%至5400；GS基准目标7600，但将衰退概率上调，EPS增速压力是核心论据",
-        "source": "Goldman Sachs Research / techi.com 4/7",
-        "url": "https://www.techi.com/goldman-sachs-sp500-crash-5400-bear-market/",
+        "title": "本周Q1财报季正式开启，高盛4/13打响第一枪",
+        "brief": "高盛(EPS预期$16.34)、摩根大通(4/14)、美国银行等大行财报密集发布，交易收入+IPO复苏是核心看点",
+        "source": "StockAnalysis",
+        "url": "https://stockanalysis.com/stocks/earnings-calendar/",
+        "source_count": 3
+      },
+      {
+        "title": "段永平暂别雪球，DXY 98.71延续年内低位",
+        "brief": "段永平4/10正式宣布暂别雪球，此前已集中释放泡泡玛特sell put+PDD估值信号——美元持续走弱为新兴市场和大宗商品提供顺风",
+        "source": "雪球",
+        "url": "https://xueqiu.com/u/1247347556",
         "source_count": 3
       }
     ]
@@ -45,160 +52,144 @@
       "name": "标普500",
       "value": "-0.11%",
       "direction": "down",
-      "note": "本周累涨但三杀信号指向结构裂缝"
+      "note": "谈判前谨慎，蓝筹拖累"
     },
     {
       "name": "纳斯达克",
       "value": "+0.35%",
       "direction": "up",
-      "note": "科技强势，NVDA+2.61%周五领涨"
+      "note": "NVDA+2.61%科技抗跌"
+    },
+    {
+      "name": "布伦特原油",
+      "value": "$94.45",
+      "direction": "down",
+      "note": "谈判破裂后风险重燃"
     },
     {
       "name": "黄金",
-      "value": "$4,748.72",
-      "direction": "up",
-      "note": "本周创历史新高，货币体系信任危机信号"
+      "value": "$4,751.68",
+      "direction": "down",
+      "note": "红灯区间避险情绪高企"
     },
     {
       "name": "10Y美债",
       "value": "4.31%",
-      "direction": "flat",
-      "note": "本周短暂失控后回落，黄灯区间"
-    },
-    {
-      "name": "布伦特原油",
-      "value": "$95.20",
-      "direction": "down",
-      "note": "谈判定价区，距$100仅5%"
+      "direction": "up",
+      "note": "CPI确认通胀压力收益率上行"
     },
     {
       "name": "BTC",
-      "value": "$73,035",
-      "direction": "up",
-      "note": "重返7.3万，弱美元背景下非主权储值叙事升温"
+      "value": "$73,056",
+      "direction": "down",
+      "note": "谈判破裂后小幅回撤"
     }
   ],
   "coreJudgments": [
     {
-      "title": "三杀信号确认美国资产风险溢价重定价",
-      "confidence": 82,
-      "logic": "股债汇同向走弱→外资撤离美元资产→风险溢价系统性上移",
-      "keyActor": "Ray Dalio",
+      "title": "谈判破裂使停火逻辑失效，油价上行风险重启",
+      "confidence": 75,
+      "logic": "Vance无协议返美 → 停火随时可能破裂 → 霍尔木兹封锁风险溢价重定价 → 布伦特可能从$94再冲$105+",
+      "keyActor": "JD Vance / 伊朗谈判团队",
       "references": [
         {
-          "name": "WSJ：美国例外论为何退潮",
-          "summary": "全球资金重新评估美国资产超配，资本流向出现逆转迹象，为多年来首次",
-          "url": "https://www.wsj.com/finance/investing/why-wall-street-is-backing-away-from-its-u-s-exceptionalism-bet-fa4e4e18"
-        },
+          "name": "NPR",
+          "summary": "美伊在伊斯兰堡21小时谈判破裂，停火命运未定，双方分歧集中在霍尔木兹重开条件",
+          "url": "https://www.npr.org/2026/04/11/nx-s1-5781760/pakistan-peace-talks-us-iran"
+        }
+      ],
+      "probability": "中可能性",
+      "trend": "上升"
+    },
+    {
+      "title": "CPI 3.3%封堵年中降息窗口，债券市场承压",
+      "confidence": 72,
+      "logic": "CPI环比+0.9%(能源驱动) → 通胀逆转2.4%→3.3% → 美联储降息节奏推迟 → 10Y美债收益率中枢上移至4.3-4.5%区间",
+      "keyActor": "美联储/鲍威尔",
+      "references": [
         {
-          "name": "Bridgewater/Dalio警告",
-          "summary": "Dalio 4/11公开警告美元货币体系崩溃风险，DXY跌破100是结构信号而非噪音",
-          "url": "https://www.bridgewater.com/research-and-insights"
+          "name": "Trading Economics",
+          "summary": "3月CPI年率3.3%为近两年新高，Energy分项月涨6.7%为主要驱动，核心CPI 2.7%仍在控制中",
+          "url": "https://tradingeconomics.com/united-states/inflation-cpi"
         }
       ],
       "probability": "高可能性",
       "trend": "上升"
     },
     {
-      "title": "下周财报季是EPS修正预期的第一个验证窗口",
-      "confidence": 75,
-      "logic": "GS警告衰退情景下标普可跌至5400→财报指引若低于预期→估值支撑二次崩塌",
-      "keyActor": "David Kostin（GS首席美股策略师）",
+      "title": "Q1财报季将成美股估值中枢的最终裁判",
+      "confidence": 65,
+      "logic": "高盛/JPM财报超预期(利率高位利好金融) → 科技季报4/15起集中揭晓 → AI资本开支指引决定NVDA等成长股PE是否可持续",
+      "keyActor": "Goldman Sachs/JPMorgan CEO",
       "references": [
         {
-          "name": "Goldman Sachs 4/7熊市情景报告",
-          "summary": "GS发出预警：若关税引发衰退，标普可能从当前水位下跌约20%至5400；GS基准目标仍为7600，但已提高对衰退情景的概率权重",
-          "url": "https://www.techi.com/goldman-sachs-sp500-crash-5400-bear-market/"
-        },
-        {
-          "name": "ASML Q1财报预览（4/16）",
-          "summary": "半导体设备资本开支指引将成为AI算力链下半年景气度的先行指标",
-          "url": "https://www.asml.com/en/investors/reports"
+          "name": "StockAnalysis",
+          "summary": "高盛EPS预期$16.34(同比+15.7%)，摩根大通4/14，科技股财报4/15-4/30密集发布",
+          "url": "https://stockanalysis.com/stocks/earnings-calendar/"
         }
       ],
       "probability": "中可能性",
-      "trend": "上升"
-    },
-    {
-      "title": "美国例外论退潮，非美资产相对价值窗口开启",
-      "confidence": 68,
-      "logic": "弱美元叠加关税冲击→非美股黄金亚太相对占优→配置逻辑发生结构转变",
-      "keyActor": "Howard Marks",
-      "references": [
-        {
-          "name": "橡树资本备忘录：关税战下的不确定性",
-          "summary": "马克斯类比2008年前「知道不够多」阶段，建议降低确定性、提升防御性配置比例",
-          "url": "https://www.oaktreecapital.com/insights"
-        },
-        {
-          "name": "Morgan Stanley避险配置建议",
-          "summary": "MS维持超配黄金和防御股，指向机构层面对非美资产的系统性转向",
-          "url": "https://www.morganstanley.com/ideas"
-        }
-      ],
-      "probability": "中可能性",
-      "trend": "上升"
+      "trend": "稳定"
     }
   ],
   "actionHints": [],
-  "sentimentScore": 58,
+  "sentimentScore": 55,
   "sentimentLabel": "中性",
   "marketSummaryPoints": [
-    "本周DXY收98.71跌破100关键支撑，为2023年以来首次，美元弱势已由投机性转向结构性讨论",
-    "黄金本周收$4748创历史新高，单周涨幅超3%，实物黄金ETF资金净流入显著加速",
-    "GS 4/7发出熊市情景预警：关税若引发衰退，标普500可能下跌约20%至5400（基准目标7600），财报季EPS表现将实时检验这一风险权重",
-    "10年期美债收益率本周大幅震荡，短暂飙升后回落至4.31%，债市失控信号引发恐慌但随后被平息",
-    "ARK本周累计增持TSLA $2780万，逆向加仓姿态明确，信号意义高于绝对金额"
+    "美股4/10以谨慎姿态收盘：SPX-0.11%/道指-0.56%，纳指+0.35%科技相对抗跌，NVDA以+2.61%领涨",
+    "亚太4/10全线收涨，日经+1.84%(56924)/深证+2.24%创业板创四年新高，资金风险偏好未见明显退却",
+    "谈判破裂后最大风险：CPI 3.3%确认通胀反弹+停火逻辑失效，布伦特$94.45存在油价再冲$100+的可能",
+    "情绪从偏贪婪降回中性——地缘不确定性+通胀压力使市场进入关键验证周"
   ],
   "smartMoney": [
     {
-      "source": "Goldman Sachs",
-      "action": "4/7发布熊市预警研究笔记：若关税升级引发衰退，标普500可能下跌约20%至5400；基准目标仍为7600，但衰退概率上调，EPS承压是关键论据",
-      "signal": "bearish"
-    },
-    {
-      "source": "ARK Invest（Cathie Wood）",
-      "action": "本周累计增持TSLA $2780万，4/10单日买入PLTR $590万同日卖出AMD，方向：从半导体硬件转向AI应用软件",
+      "source": "段永平",
+      "action": "4/10宣布暂别雪球，此前已集中输出泡泡玛特sell put(不计入13F持仓)+PDD估值框架，投资信号完整释放后离场",
       "signal": "bullish"
     },
     {
-      "source": "Ray Dalio / Bridgewater",
-      "action": "4/11发布公开警告，将当前美元体系风险定性为货币体系崩溃前兆，建议降低美元资产敞口，黄金和非美资产为对冲工具",
+      "source": "ARK Invest",
+      "action": "本周累计买入TSLA约$2780万+HOOD $1270万+WGS $196万，Cathie Wood维持TSLA目标价$4600",
+      "signal": "bullish"
+    },
+    {
+      "source": "桥水/Dalio",
+      "action": "4/9 Dalio发布13步世界大战周期框架，警告距战争仅4步，伊斯兰堡谈判破裂印证其判断",
       "signal": "bearish"
     },
     {
-      "source": "Howard Marks / Oaktree Capital",
-      "action": "发布最新备忘录「关税战下的不确定性」，明确类比2008年前环境，建议超配防御性资产，降低对经济增长假设的依赖",
-      "signal": "bearish"
+      "source": "伯克希尔",
+      "action": "发行2723亿日元债资助东京海上收购+加入DFC霍尔木兹保险计划($400亿)，Greg Abel布局中东风险对冲",
+      "signal": "neutral"
     }
   ],
   "topHoldings": [
     {
       "name": "巴菲特 · 伯克希尔",
-      "holdings": "AAPL 28.1% | AXP 16.5% | BAC 11.2% | KO 9.2% · 现金$3340亿创历史高位，隐含对当前估值的保守判断"
+      "holdings": "AAPL 22.6% | AXP 20.5% | BAC 10.4% | KO 10.2% | CVX 7.2% · 现金$3733亿 · Greg Abel重启回购"
     },
     {
       "name": "段永平 · H&H",
-      "holdings": "AAPL 86.7% | GOOGL 12.6% | NVDA 7.7% (Q4大幅增持) · 另执行泡泡玛特sell put布局，集中持有高质量资产不受短期波动影响"
+      "holdings": "AAPL 50.3% | BRK.B 20.6% | NVDA 7.7% | PDD 7.5% | GOOG 3.3% · 泡泡玛特sell put观察中"
     },
     {
       "name": "Cathie Wood · ARK旗舰",
-      "holdings": "TSLA 11.3% | ROKU 8.9% | COIN 8.7% · 本周大幅轮仓：加PLTR减AMD，方向从硬件算力转向AI软件应用"
+      "holdings": "TSLA 10.5% | CRSP 6.3% | TEM 5.0% | SHOP 4.7% | COIN 4.3% · 本周连续加仓TSLA+HOOD"
     }
   ],
   "riskPoints": [
-    "下周GS/BAC财报若EPS指引低于预期，将触发金融板块连锁重定价，SPX 6816点位缺乏支撑",
-    "美伊谈判若第二轮破裂，布伦特$95.20可能迅速突破$100，固化通胀预期并压缩美联储降息空间",
-    "10年期美债若从4.31%再次向上突破，将重演本周「债市失控」预期，股债汇三杀格局恐延续"
+    "伊斯兰堡谈判破裂，停火随时可能终结——布伦特若突破$100将触发通胀预期二次抬头+降息预期推迟",
+    "CPI 3.3%创近两年新高，能源驱动的通胀逆转使美联储降息窗口关闭至年底，10Y美债中枢4.3-4.5%",
+    "黄金$4751红灯(避险定价极端)+DXY 98.71年内低位，避险资金与风险偏好并存的矛盾结构仍未破局"
   ],
-  "riskNote": "下周核心风险在于财报季与关税博弈的双重叠加——若GS和ASML同时给出悲观指引，市场将面临「估值+盈利」双杀局面。VIX虽已回落至19.23，但股债汇三杀的结构性信号尚未解除，当前低VIX可能低估了真实尾部风险。",
-  "dataTime": "2026-04-12 15:26 BJT",
-  "audioUrl": "cloud://cloud1-3g6wj06h84f38ea8.636c-cloud1-3g6wj06h84f38ea8-1418169528/audio/briefing-2026-04-12.mp3",
+  "riskNote": "谈判破裂后停火逻辑失效叠加CPI 3.3%通胀反弹，本周财报季验证将是市场方向关键节点",
+  "dataTime": "2026-04-12 16:44 BJT",
+  "audioUrl": "",
   "audioFile": "briefing-2026-04-12.mp3",
-  "voiceText": "今天是四月十二号，周日，投研鸭本周收官简报。\n\n本周全球市场出现罕见信任风暴。美国对华关税维持高位，标普五百全周宽幅震荡。\n\n资产市场的反应值得警惕：十年期美债收益率大幅震荡，美元指数跌破一百，创二零二三年以来新低。黄金突破每盎司四千七百四十八美元，刷新历史新高。比特币重返七万三千美元上方。高盛同期发出熊市预警：若关税引发衰退，标普可能下跌约两成至五千四百点。\n\n本周最值得关注的，不是股市涨跌，而是美债和美元同时走弱。这种信任裂缝在历史上极为罕见。达利欧警告这已是货币体系崩溃前兆，马克斯类比二零零八年前环境。聪明钱同步分化：方舟投资逆势增持特斯拉约两千八百万美元；桥水和橡树同步发出宏观预警，建议超配防御性资产。\n\n三条核心判断：第一，股债汇同向走弱是外资撤离美元资产的结构信号；第二，财报季将实时验证企业盈利能否抵抗关税冲击；第三，美国例外论退潮将为黄金和非美资产打开相对价值窗口。\n\n下周风险：高盛和美国银行财报若下调指引，市场面临估值压缩；布伦特约九十五美元，若美伊谈判破裂将推升通胀预期。当前情绪中性，波动尚未结束。\n\n以上是本周投研鸭简报，下周见。",
+  "voiceText": "各位投资者下午好，这里是投研鸭每日简报，今天是2026年4月12日周末版。本周最重磅的两个事件已有结果。第一，美国副总统万斯率团在巴基斯坦伊斯兰堡与伊朗进行了长达21小时的马拉松谈判，最终无协议结束，停火命运依然悬而未决，霍尔木兹海峡重开时间表不明。第二，4月10日公布的3月CPI年率录得3.3%，为近两年新高，伊朗战争推动能源价格环比暴涨，通胀趋势出现逆转。市场数据方面，4月10日美股以谨慎姿态收盘，标普500微跌0.11%，道指下跌0.56%，纳指小涨0.35%，英伟达以+2.61%领涨大型科技股。亚太市场全线收涨，日经225涨1.84%，深证成指涨2.24%。大宗商品方面，黄金收于4751美元仍处红灯区间，布伦特原油收于94.45美元。本周最重要的催化将是Q1财报季正式启动，高盛周一开门，摩根大通周二跟进。聪明钱方面，段永平已在4月10日宣布暂别雪球，此前完整释放了泡泡玛特和拼多多的投资观点。Dalio则警告伊斯兰堡谈判破裂印证了他的世界大战风险判断。风险提示：谈判破裂后布伦特存在再冲100美元以上的可能，加上CPI通胀反弹使降息窗口收窄，本周财报季将是美股方向的关键验证。以上是投研鸭周末简报，祝您投资顺利。",
   "_meta": {
-    "sourceType": "weekend_insight",
-    "generatedAt": "2026-04-12T13:10:00+08:00",
-    "skillVersion": "v12.0"
+    "sourceType": "heavy_analysis",
+    "generatedAt": "2026-04-12T16:30:00+08:00",
+    "skillVersion": "v10.5"
   }
 }

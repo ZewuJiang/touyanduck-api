@@ -1,8 +1,8 @@
 {
   "date": "2026-04-12",
-  "updatedAt": "2026-04-12T15:27:18+08:00",
+  "updatedAt": "2026-04-12T16:45:12+08:00",
   "sentiment": {
-    "score": 58,
+    "score": 55,
     "label": "中性"
   },
   "risk": {
@@ -14,7 +14,7 @@
     "yellow": 3,
     "green": 3
   },
-  "coreEvent": "美国例外论裂缝确立：三杀信号+GS下调目标价+301调查升级，市场进入风险重定价周期",
+  "coreEvent": "谈判破裂+CPI超预期：停火脆弱与通胀压力同时升温",
   "usMarkets": {
     "sp500": {
       "price": 6816.89,
@@ -41,7 +41,7 @@
       "reason": ""
     }
   ],
-  "smartMoneySummary": "Goldman Sachs: 4/7发布熊市预警研究笔记：若关税升级引发衰退，标普500可…；ARK Invest（Cathie Wood）: 本周累计增持TSLA $2780万，4/10单日买入PLTR…；Ray Dalio / Bridgewater: 4/11发布公开警告，将当前美元体系风险定性为货币体系崩溃前…",
+  "smartMoneySummary": "段永平: 4/10宣布暂别雪球，此前已集中输出泡泡玛特sell put…；ARK Invest: 本周累计买入TSLA约$2780万+HOOD $1270万+…；桥水/Dalio: 4/9 Dalio发布13步世界大战周期框架，警告距战争仅4…",
   "actionSummary": "暂无明确行动建议",
   "briefingUrl": "archive/2026-04-12/briefing.md"
 }

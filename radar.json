@@ -2,25 +2,25 @@
   "date": "2026-04-12",
   "predictions": [
     {
-      "title": "美联储4月维持利率?",
-      "source": "Polymarket",
-      "probability": 98,
-      "trend": "stable",
-      "change24h": 0
+      "title": "美联储6月降息?",
+      "source": "CME FedWatch",
+      "probability": 55,
+      "trend": "up",
+      "change24h": 12
     },
     {
-      "title": "6月降息概率",
-      "source": "CME FedWatch",
-      "probability": 43,
-      "trend": "stable",
-      "change24h": 0
+      "title": "美伊停火能否延续?",
+      "source": "Polymarket",
+      "probability": 35,
+      "trend": "down",
+      "change24h": -18
     },
     {
       "title": "2026年底前美国衰退?",
       "source": "Polymarket",
-      "probability": 32,
+      "probability": 33,
       "trend": "up",
-      "change24h": 2
+      "change24h": 3
     }
   ],
   "trafficLights": [
@@ -38,7 +38,7 @@
     },
     {
       "name": "布伦特原油",
-      "value": "$95.20",
+      "value": "$94.45",
       "status": "yellow",
       "threshold": "<$90绿 / $90-110黄 / >$110红"
     },
@@ -56,79 +56,72 @@
     },
     {
       "name": "黄金XAU",
-      "value": "$4,748.72",
+      "value": "$4,751",
       "status": "red",
       "threshold": "<$2200绿 / $2200-3500黄 / >$3500红"
     },
     {
       "name": "离岸人民币CNH",
-      "value": "6.8300",
+      "value": "6.8282",
       "status": "green",
       "threshold": "<7.15绿 / 7.15-7.30黄 / >7.30红"
     }
   ],
   "riskScore": 80,
   "riskLevel": "high",
-  "riskAdvice": "下周最危险指标是GS/BAC财报EPS指引与ASML资本开支指引的双重验证——若两者同时低于预期，将触发「盈利下修+算力减速」双杀，VIX从19.23迅速向28+跳升概率显著上升。布伦特$95.20若突破$100将封堵美联储降息空间，届时股债均面临新一轮重定价压力。",
+  "riskAdvice": "黄金$4751红灯+布伦特$94.45黄灯(谈判破裂后随时可冲$100+)+VIX 19.23黄灯——CPI 3.3%封堵降息窗口，本周高盛/JPM财报若不及预期将触发本轮反弹以来最大回撤",
   "riskAlerts": [],
   "events": [
     {
-      "date": "周一(4/14)",
-      "title": "美伊第二轮谈判结果发酵+Goldman Sachs Q1财报（EPS预期$14.2）",
+      "date": "周一(4/13)",
+      "title": "高盛Q1财报(EPS预期$16.34/营收$16.9B)发布，交易+IPO复苏是核心看点，开启财报季",
       "impact": "high",
-      "source": "Goldman Sachs IR / Reuters",
-      "url": "https://www.goldmansachs.com/investor-relations/financials/quarterly-earnings-releases/"
+      "source": "Goldman Sachs",
+      "url": "https://www.goldmansachs.com/investor-relations/"
     },
     {
-      "date": "周二(4/15)",
-      "title": "Bank of America Q1财报+美国零售销售（预期+0.1%）",
+      "date": "周二(4/14)",
+      "title": "摩根大通/美国银行/富国银行Q1财报密集公布，大行财报周是市场情绪转折点",
       "impact": "high",
-      "source": "BofA IR / US Census Bureau",
-      "url": "https://investor.bankofamerica.com/press-releases"
+      "source": "JPMorgan Chase",
+      "url": "https://www.jpmorganchase.com/ir/quarterly-earnings"
     },
     {
-      "date": "周三(4/16)",
-      "title": "ASML Q1财报：半导体设备资本开支指引——AI算力链下半年景气度最重要先行指标",
+      "date": "本周",
+      "title": "美伊停火后续谈判走向：Vance无协议返美，下轮谈判时间未定，停火有效期每日悬而未决",
       "impact": "high",
-      "source": "ASML IR",
-      "url": "https://www.asml.com/en/investors/reports"
+      "source": "AP News",
+      "url": "https://apnews.com/article/iran-us-israel-trump-lebanon-april-11-2026-2be904aee3f804892336730279e054b9"
     },
     {
-      "date": "周三(4/16)",
-      "title": "美联储褐皮书：各地区经济活动定性评估，关注关税对实体经济活动的描述力度",
+      "date": "周三-周五",
+      "title": "美国3月零售销售+工业产出数据，检验能源价格暴涨对消费的实际传导程度",
       "impact": "medium",
-      "source": "Federal Reserve",
-      "url": "https://www.federalreserve.gov/releases/beige-book"
-    },
-    {
-      "date": "周四(4/17)",
-      "title": "Netflix Q1财报：订阅用户增长验证AI内容变现，是AI应用层估值最需要的基本面锚点",
-      "impact": "high",
-      "source": "Netflix IR",
-      "url": "https://ir.netflix.net"
+      "source": "U.S. Commerce Dept.",
+      "url": ""
     }
   ],
   "alerts": [
     {
       "level": "danger",
-      "text": "Dalio4/11警告：美债抛售+美元暴跌已出现货币体系崩溃前兆，若赤字不控制在GDP 3%以内后果将远超衰退",
-      "time": "21:00",
-      "source": "界面新闻",
-      "url": "https://www.jiemian.com/article/12606792.html"
+      "text": "伊斯兰堡谈判4/11无协议破裂，Vance空手而归——停火可能随时失效，布伦特$94.45面临再冲$100+的风险",
+      "time": "06:30",
+      "source": "AP News",
+      "url": "https://apnews.com/article/iran-us-israel-trump-lebanon-april-11-2026-2be904aee3f804892336730279e054b9"
     },
     {
       "level": "warning",
-      "text": "Meta 4/8 Muse Spark发布：放弃Llama开源路线，签署$21B CoreWeave算力协议，AI战略重构影响整个赛道定价",
-      "time": "09:00",
-      "source": "Meta Newsroom",
-      "url": "https://about.fb.com/news/2026/04/introducing-muse-spark-meta-superintelligence-labs/"
+      "text": "CPI 3.3%确认通胀反弹(能源环比+6.7%)，美联储降息窗口被进一步推迟，市场6月降息预期仍仅55%",
+      "time": "22:30",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/04/10/cpi-inflation-report-march-2026.html"
     },
     {
       "level": "info",
-      "text": "ARK 4/10大幅轮仓：买PLTR $5.9M + 卖AMD $5.9M，政企AI落地（PLTR AIP）取代算力硬件成ARK最新核心押注",
-      "time": "22:00",
-      "source": "cathiesark.com",
-      "url": "https://cathiesark.com/ark-funds-combined/trades"
+      "text": "Dalio 4/9警告距世界大战仅4步的判断被伊斯兰堡谈判破裂所印证，桥水全天候组合防御配置已提升",
+      "time": "16:00",
+      "source": "LinkedIn",
+      "url": ""
     }
   ],
   "smartMoneyDetail": [
@@ -137,25 +130,25 @@
       "funds": [
         {
           "name": "段永平 H&H",
-          "action": "4/10宣布暂别雪球，离场前密集操作：泡泡玛特sell put布局（称保险公司开张）+力挺PDD估值（1400亿扣现金5年回本）——价值派长期信心信号集中释放",
+          "action": "4/10宣布暂别雪球，4/9启动泡泡玛特sell put(不计入13F持仓，称保险公司开张)+力挺PDD估值(1400亿扣现金5年回本)——在地缘动荡背景下集中释放价值投资信号",
           "signal": "bullish",
           "source": "雪球",
           "url": "https://xueqiu.com/u/1247347556",
           "freshness": "本周"
         },
         {
-          "name": "桥水/Dalio",
-          "action": "4/11升级警告：美国面临货币体系崩溃而非仅衰退，美债抛售+美元下跌=去美元化实质启动，呼吁将赤字控制至GDP 3%以内",
-          "signal": "bearish",
-          "source": "界面新闻",
-          "url": "https://www.jiemian.com/article/12606792.html",
+          "name": "伯克希尔",
+          "action": "发行2723亿日元债资助东京海上收购+加入DFC海上再保险计划($400亿霍尔木兹保障)，Greg Abel在地缘高风险期积极布局保险和大宗对冲",
+          "signal": "neutral",
+          "source": "Bloomberg",
+          "url": "",
           "freshness": "本周"
         },
         {
-          "name": "伯克希尔",
-          "action": "发行2723亿日元债扩张日本保险业务+加入DFC海上再保险计划，Greg Abel接任后积极布局非美元资产，现金$3733亿待机",
-          "signal": "neutral",
-          "source": "Bloomberg",
+          "name": "桥水/Dalio",
+          "action": "4/9发布13步世界大战周期框架，警告距战争仅4步。4/11谈判破裂印证判断，桥水全天候增配黄金+实物资产，战略看空美元",
+          "signal": "bearish",
+          "source": "LinkedIn",
           "url": "",
           "freshness": "本周"
         }
@@ -166,7 +159,7 @@
       "funds": [
         {
           "name": "ARK Invest",
-          "action": "4/10全系同步大买PLTR $5.9M(ARKK)、$1.9M(ARKQ)，同步卖出AMD $5.9M(ARKK)——政企AI落地平台取代硬件算力成为ARK旗舰押注；本周累计买入TSLA $13.6M仍维持第一重仓",
+          "action": "本周累计买入TSLA约$2780万(4/8 ARKQ买入33210股$1140万)+HOOD $1270万+4/9新买WGS(GeneDx精准医疗)$196万，Cathie Wood维持TSLA目标价$4600",
           "signal": "bullish",
           "source": "cathiesark.com",
           "url": "https://cathiesark.com/ark-funds-combined/trades",
@@ -179,27 +172,27 @@
       "funds": [
         {
           "name": "Goldman Sachs/Kostin",
-          "action": "4/7发布熊市情景预警：若关税引发衰退，标普500可能下跌约20%至5400；GS基准目标7600不变，但衰退概率上调，EPS承压是核心论据——4/14 Q1财报将成为对该判断的实时验证",
-          "signal": "bearish",
-          "source": "Goldman Sachs Research / techi.com",
-          "url": "https://www.techi.com/goldman-sachs-sp500-crash-5400-bear-market/",
-          "freshness": "本周"
+          "action": "标普500年末目标7200，EPS增长12%——但4/13财报前若CPI持续高企将可能下修目标，关注明日高盛自身财报",
+          "signal": "bullish",
+          "source": "Goldman Sachs",
+          "url": "",
+          "freshness": "本月"
         },
         {
-          "name": "Howard Marks / Oaktree Capital",
-          "action": "本周发布最新备忘录「关税战下的不确定性」，明确类比2008年前环境，建议超配防御性资产、降低对经济增长假设的依赖",
-          "signal": "bearish",
-          "source": "Oaktree Capital",
-          "url": "https://www.oaktreecapital.com/insights",
+          "name": "Morgan Stanley/Wilson",
+          "action": "[4/7] 维持短期谨慎立场——SPX在没有CPI数据落地前存在回撤至6300的可能，推荐高质量盈利个股策略",
+          "signal": "neutral",
+          "source": "Morgan Stanley",
+          "url": "",
           "freshness": "本周"
         },
         {
           "name": "贝莱德/Fink",
-          "action": "[3/23] AI从炒作进入实用阶段，建议不要择时保持投资——Meta Muse Spark发布印证该判断，但闭源转型是否改变生态格局仍需观察",
+          "action": "[4/10] BlackRock Q1财报确认，交易量强劲驱动营收——Fink坚持不择时策略，战略增配基础设施+私市资产对冲地缘风险",
           "signal": "bullish",
           "source": "BlackRock",
           "url": "",
-          "freshness": "上周"
+          "freshness": "本周"
         }
       ]
     }
@@ -341,7 +334,7 @@
           "change": "减持"
         }
       ],
-      "footnote": "持仓数14只，核心持仓极度集中(AAPL+BRK.B占71%)，2025Q4大幅增持NVDA(+1110%)/MSFT(+207%)/TSM(+370%)，另启动泡泡玛特sell put(不计入持仓)"
+      "footnote": "持仓数14只，核心集中(AAPL+BRK.B占71%)，2025Q4大幅增持NVDA(+1110%)/MSFT(+207%)/TSM(+370%)，另有泡泡玛特sell put操作(不计入持仓)"
     },
     {
       "manager": "Cathie Wood · ARK旗舰",
@@ -380,15 +373,15 @@
           "change": "持仓不变"
         },
         {
-          "name": "Palantir",
-          "symbol": "PLTR",
-          "weight": "3.8%",
-          "change": "大幅加仓"
-        },
-        {
           "name": "Roku",
           "symbol": "ROKU",
           "weight": "4.2%",
+          "change": "持仓不变"
+        },
+        {
+          "name": "Palantir",
+          "symbol": "PLTR",
+          "weight": "3.8%",
           "change": "持仓不变"
         },
         {
@@ -410,13 +403,13 @@
           "change": "持仓不变"
         }
       ],
-      "footnote": "ARK每日披露，4/10大幅轮仓：买PLTR $5.9M + 卖AMD $5.9M，政企AI落地主线升级；本周累计买入TSLA $13.6M，TSLA目标价$4600"
+      "footnote": "ARK每日披露持仓，本周累计买入TSLA约$2780万+HOOD $1270万+WGS $196万，TSLA目标价$4600(Robotaxi占60%)"
     }
   ],
-  "dataTime": "2026-04-12 15:26 BJT",
+  "dataTime": "2026-04-12 16:44 BJT",
   "_meta": {
-    "sourceType": "weekend_insight",
-    "generatedAt": "2026-04-12T13:10:00+08:00",
-    "skillVersion": "v12.0"
+    "sourceType": "heavy_analysis",
+    "generatedAt": "2026-04-12T16:30:00+08:00",
+    "skillVersion": "v10.5"
   }
 }
