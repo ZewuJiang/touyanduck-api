@@ -179,10 +179,10 @@
       "funds": [
         {
           "name": "Goldman Sachs/Kostin",
-          "action": "本周将标普500年底目标价从6500下调至5800，EPS增速预测从+9%压至+3%，理由是关税直接压缩企业盈利——4/14Q1财报将成为对自身判断的实时验证",
+          "action": "4/7发布熊市情景预警：若关税引发衰退，标普500可能下跌约20%至5400；GS基准目标7600不变，但衰退概率上调，EPS承压是核心论据——4/14 Q1财报将成为对该判断的实时验证",
           "signal": "bearish",
-          "source": "Goldman Sachs Research",
-          "url": "https://www.goldmansachs.com/intelligence/pages/equity-research",
+          "source": "Goldman Sachs Research / techi.com",
+          "url": "https://www.techi.com/goldman-sachs-sp500-crash-5400-bear-market/",
           "freshness": "本周"
         },
         {
@@ -413,10 +413,10 @@
       "footnote": "ARK每日披露，4/10大幅轮仓：买PLTR $5.9M + 卖AMD $5.9M，政企AI落地主线升级；本周累计买入TSLA $13.6M，TSLA目标价$4600"
     }
   ],
-  "dataTime": "2026-04-12 13:45 BJT",
+  "dataTime": "2026-04-12 15:26 BJT",
   "_meta": {
     "sourceType": "weekend_insight",
     "generatedAt": "2026-04-12T13:10:00+08:00",
-    "skillVersion": "v11.2"
+    "skillVersion": "v12.0"
   }
 }

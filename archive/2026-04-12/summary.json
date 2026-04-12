@@ -1,6 +1,6 @@
 {
   "date": "2026-04-12",
-  "updatedAt": "2026-04-12T13:45:55+08:00",
+  "updatedAt": "2026-04-12T15:27:18+08:00",
   "sentiment": {
     "score": 58,
     "label": "中性"
@@ -41,7 +41,7 @@
       "reason": ""
     }
   ],
-  "smartMoneySummary": "Goldman Sachs: 本周将标普500年底目标价从6500下调至5800，同步将E…；ARK Invest（Cathie Wood）: 本周累计增持TSLA $2780万，4/10单日买入PLTR…；Ray Dalio / Bridgewater: 4/11发布公开警告，将当前美元体系风险定性为货币体系崩溃前…",
+  "smartMoneySummary": "Goldman Sachs: 4/7发布熊市预警研究笔记：若关税升级引发衰退，标普500可…；ARK Invest（Cathie Wood）: 本周累计增持TSLA $2780万，4/10单日买入PLTR…；Ray Dalio / Bridgewater: 4/11发布公开警告，将当前美元体系风险定性为货币体系崩溃前…",
   "actionSummary": "暂无明确行动建议",
   "briefingUrl": "archive/2026-04-12/briefing.md"
 }

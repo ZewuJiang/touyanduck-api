@@ -1,5 +1,5 @@
 # 🦆 投研鸭 — 二级市场每日策略简报
-Updated: 2026-04-12T13:10:00+08:00 | 数据来源: 实时行情+聪明钱+财经媒体 | 版本: v11.2
+Updated: 2026-04-12T13:10:00+08:00 | 数据来源: 实时行情+聪明钱+财经媒体 | 版本: v12.0
 
 ## Situation Assessment
 
@@ -26,7 +26,7 @@ Updated: 2026-04-12T13:10:00+08:00 | 数据来源: 实时行情+聪明钱+财经
 - ◆ 美国301条款调查升级：60国产能过剩调查+医药关税100% — 2026年3月USTR对中国等60国发起301条款调查（强迫劳动/产能过剩），4/2特朗普签行政令对进口专利药和制药成分加征100%关税，贸易战从「全面关税」转向「精准打击」新阶段 ([US Trade Representative / Reuters](https://ourtake.bakerbotts.com/post/102monp/trump-tariff-tracker-april-1-2026))
 - ◆ 股债汇三杀，美国例外论叙事瓦解 — DXY跌破100收98.71（2023年以来新低），黄金飙升至$4748历史高位，10Y美债收益率短暂失控后回落至4.31%，三资产同向走弱指向资本外流而非单纯避险 ([Bloomberg / WSJ](https://www.wsj.com/finance/investing/tariffs-dollar-treasuries-the-market-is-sending-a-warning-50b6b059))
 - ◆ Dalio 4/11升级警告：货币体系崩溃风险 — Dalio警告美元体系性风险已进入新阶段；霍华德·马克斯同期发布备忘录，将当前环境类比2008年前「知道不够多」阶段 ([Bridgewater / Oaktree Capital](https://www.oaktreecapital.com/insights))
-- ◆ GS下调标普500年底目标价至5800 — Goldman Sachs将标普年底目标价从6500下调至5800，核心论据：贸易摩擦升级使EPS增速从+9%压至+3%，盈利修正将是Q2核心压力 ([Goldman Sachs Research](https://www.goldmansachs.com/intelligence/pages/equity-research))
+- ◆ GS熊市预警：标普500可能跌至5400，衰退情景下跌幅达20% — Goldman Sachs 4/7研究笔记发出熊市警告：若关税升级引发衰退，标普500可能从当前高点下跌约20%至5400；GS基准目标7600，但将衰退概率上调，EPS增速压力是核心论据 ([Goldman Sachs Research / techi.com 4/7](https://www.techi.com/goldman-sachs-sp500-crash-5400-bear-market/))
 
 > Evidence: ◆ strong (≥2 sources) ◇ moderate (1 source)
 
@@ -40,7 +40,7 @@ Updated: 2026-04-12T13:10:00+08:00 | 数据来源: 实时行情+聪明钱+财经
 | 道琼斯 | 47,916.57 | -0.56% | ▼▲▼▲▲▼ |
 | VIX恐慌指数 | 19.23 | -1.33% | ▼▼▼▼▼▼ |
 
-> 本周SPX以6816收盘，外观平稳但结构严重撕裂：DXY跌破100、10Y短暂失控、黄金创历史新高，三资产同向走弱是外资撤离美元体系的结构信号。下周GS（EPS预期$14.2）和BAC财报是关键检验——若指引证实关税对Q2盈利的压制，GS所预言的EPS从+9%→+3%将从预测变为现实。
+> 本周SPX 6816外观平稳但结构撕裂：DXY跌破100、10Y短暂失控、黄金创历史新高，三杀信号指向外资撤离美元体系。下周GS/BAC财报若指引证实关税压制Q2盈利，EPS下修将从预测变为现实。
 
 ### 🤖 M7 七巨头
 | 名称 | 价格 | 涨跌 | 7日趋势 |
@@ -85,7 +85,7 @@ Updated: 2026-04-12T13:10:00+08:00 | 数据来源: 实时行情+聪明钱+财经
 | 比特币 BTC | $73,035 | +0.08% |
 | 以太坊 ETH | $2,258 | +0.7% |
 
-> BTC本周重返$73,035，弱美元背景下加密资产叙事从「风险资产」向「非主权储值资产」漂移，与黄金创新高形成共振。最大制约不是监管而是宏观：若10Y美债再次失控上行，高贝塔属性将主导价格，届时与黄金的正相关性会暂时断裂。
+> BTC重返$73,035，弱美元背景下加密叙事从「风险资产」向「非主权储值」漂移，与黄金创新高共振。核心风险：若10Y美债再次失控上行，高贝塔属性将主导价格，与黄金正相关性会暂时断裂。
 
 ### 📊 GICS 11 板块
 | 板块 | 涨跌 | ETF |
@@ -111,8 +111,8 @@ Updated: 2026-04-12T13:10:00+08:00 | 数据来源: 实时行情+聪明钱+财经
    参考: [WSJ：美国例外论为何退潮](https://www.wsj.com/finance/investing/why-wall-street-is-backing-away-from-its-u-s-exceptionalism-bet-fa4e4e18)
 
 2. **下周财报季是EPS修正预期的第一个验证窗口**（置信度 75%）
-   GS砍EPS至+3%→财报指引若低于预期→估值支撑二次崩塌
-   参考: [Goldman Sachs目标价下调报告](https://www.goldmansachs.com/intelligence/pages/equity-research)
+   GS警告衰退情景下标普可跌至5400→财报指引若低于预期→估值支撑二次崩塌
+   参考: [Goldman Sachs 4/7熊市情景报告](https://www.techi.com/goldman-sachs-sp500-crash-5400-bear-market/)
 
 3. **美国例外论退潮，非美资产相对价值窗口开启**（置信度 68%）
    弱美元叠加关税冲击→非美股黄金亚太相对占优→配置逻辑发生结构转变
@@ -133,8 +133,8 @@ Updated: 2026-04-12T13:10:00+08:00 | 数据来源: 实时行情+聪明钱+财经
   来源: [cathiesark.com](https://cathiesark.com/ark-funds-combined/trades)
 
 ### 策略师观点
-- **Goldman Sachs/Kostin** 📉: 本周将标普500年底目标价从6500下调至5800，EPS增速预测从+9%压至+3%，理由是关税直接压缩企业盈利——4/14Q1财报将成为对自身判断的实时验证
-  来源: [Goldman Sachs Research](https://www.goldmansachs.com/intelligence/pages/equity-research)
+- **Goldman Sachs/Kostin** 📉: 4/7发布熊市情景预警：若关税引发衰退，标普500可能下跌约20%至5400；GS基准目标7600不变，但衰退概率上调，EPS承压是核心论据——4/14 Q1财报将成为对该判断的实时验证
+  来源: [Goldman Sachs Research / techi.com](https://www.techi.com/goldman-sachs-sp500-crash-5400-bear-market/)
 - **Howard Marks / Oaktree Capital** 📉: 本周发布最新备忘录「关税战下的不确定性」，明确类比2008年前环境，建议超配防御性资产、降低对经济增长假设的依赖
   来源: [Oaktree Capital](https://www.oaktreecapital.com/insights)
 - **贝莱德/Fink** 📈: [3/23] AI从炒作进入实用阶段，建议不要择时保持投资——Meta Muse Spark发布印证该判断，但闭源转型是否改变生态格局仍需观察
@@ -254,7 +254,7 @@ AI应用板块本周整体承压，宏观避险情绪压制成长股估值扩张
 
 - 本周DXY收98.71跌破100关键支撑，为2023年以来首次，美元弱势已由投机性转向结构性讨论
 - 黄金本周收$4748创历史新高，单周涨幅超3%，实物黄金ETF资金净流入显著加速
-- GS下调标普500年底目标价至5800（前值6500），隐含下行空间约-15%，为主流机构中最激进下调
+- GS 4/7发出熊市情景预警：关税若引发衰退，标普500可能下跌约20%至5400（基准目标7600），财报季EPS表现将实时检验这一风险权重
 - 10年期美债收益率本周大幅震荡，短暂飙升后回落至4.31%，债市失控信号引发恐慌但随后被平息
 - ARK本周累计增持TSLA $2780万，逆向加仓姿态明确，信号意义高于绝对金额
 
@@ -272,5 +272,5 @@ AI应用板块本周整体承压，宏观避险情绪压制成长股估值扩张
 > 💡 直接把上面任意一句发给我，我从简报中展开分析。
 
 ---
-🦆 投研鸭 v11.2 | 八大铁律+29条零容忍 | 每工作日更新（每4小时刷新行情）
+🦆 投研鸭 v12.0 | 八大铁律+29条零容忍 | 每工作日更新（每4小时刷新行情）
 📱 微信小程序: 搜索「投研鸭」 | ⚠️ 仅供参考，不构成投资建议
