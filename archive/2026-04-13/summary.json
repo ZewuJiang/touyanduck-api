@@ -1,0 +1,47 @@
+{
+  "date": "2026-04-13",
+  "updatedAt": "2026-04-13T10:34:46+08:00",
+  "sentiment": {
+    "score": 45,
+    "label": "中性"
+  },
+  "risk": {
+    "score": 90,
+    "level": "high"
+  },
+  "trafficLights": {
+    "red": 1,
+    "yellow": 4,
+    "green": 2
+  },
+  "coreEvent": "美伊和平谈判崩溃，特朗普宣布封锁霍尔木兹——油价暴涨撕裂短暂停火假象",
+  "usMarkets": {
+    "sp500": {
+      "price": 6816.89,
+      "change": -0.11
+    },
+    "nasdaq": {
+      "price": 22902.9,
+      "change": 0.35
+    },
+    "vix": {
+      "price": 19.23,
+      "change": -1.33
+    }
+  },
+  "topMovers": [
+    {
+      "name": "NVDA",
+      "change": 2.61,
+      "reason": ""
+    },
+    {
+      "name": "AAPL",
+      "change": -1.79,
+      "reason": ""
+    }
+  ],
+  "smartMoneySummary": "段永平 H&H: 4月9日宣布泡泡玛特sell put策略正式开张，称其商业壁…；ARK Invest: 4月10日买入PLTR约590万美元，同时卖出AMD约590…；CoreWeave大客户: Anthropic签署多年期数十亿美元算力协议，Meta追加…",
+  "actionSummary": "段永平4月9日正式开设泡泡玛特sell put，确认开始左侧布局——关注5月中旬Q1 13F披露是否…",
+  "briefingUrl": "archive/2026-04-13/briefing.md"
+}
