@@ -1,8 +1,8 @@
 {
   "date": "2026-04-13",
-  "updatedAt": "2026-04-13T18:09:30+08:00",
+  "updatedAt": "2026-04-13T22:13:10+08:00",
   "sentiment": {
-    "score": 32,
+    "score": 35,
     "label": "偏恐惧"
   },
   "risk": {
@@ -17,27 +17,27 @@
   "coreEvent": "美伊和谈崩盘·特朗普今晚封锁霍尔木兹——油价暴涨撞上密歇栅74年最低消费者信心",
   "usMarkets": {
     "sp500": {
-      "price": 6816.89,
-      "change": -0.11
+      "price": 6820.39,
+      "change": 0.05
     },
     "nasdaq": {
-      "price": 22902.9,
-      "change": 0.35
+      "price": 22949.95,
+      "change": 0.21
     },
     "vix": {
-      "price": 19.23,
-      "change": -1.33
+      "price": 20.72,
+      "change": 7.75
     }
   },
   "topMovers": [
     {
-      "name": "NVDA",
-      "change": 2.61,
+      "name": "MSFT",
+      "change": 1.63,
       "reason": ""
     },
     {
       "name": "AAPL",
-      "change": -1.79,
+      "change": -1.4,
       "reason": ""
     }
   ],

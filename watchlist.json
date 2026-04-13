@@ -37,8 +37,8 @@
       {
         "name": "英伟达",
         "symbol": "NVDA",
-        "change": 2.61,
-        "price": "$188.75",
+        "change": -0.32,
+        "price": "$188.14",
         "listed": true,
         "tags": [
           "AI芯片垄断",
@@ -52,11 +52,11 @@
         "metrics": [
           {
             "label": "最新价",
-            "value": "$188.75"
+            "value": "$188.14"
           },
           {
             "label": "单日涨跌",
-            "value": "+2.61%"
+            "value": "-0.32%"
           },
           {
             "label": "7日涨跌",
@@ -296,8 +296,8 @@
       {
         "name": "微软",
         "symbol": "MSFT",
-        "change": -0.59,
-        "price": "$370.87",
+        "change": 1.63,
+        "price": "$376.92",
         "listed": true,
         "tags": [
           "Azure+Copilot",
@@ -309,15 +309,15 @@
         "metrics": [
           {
             "label": "最新价",
-            "value": "$370.87"
+            "value": "$376.92"
           },
           {
             "label": "单日涨跌",
-            "value": "-0.59%"
+            "value": "+1.63%"
           },
           {
             "label": "7日涨跌",
-            "value": "+0.41%"
+            "value": "+2.04%"
           },
           {
             "label": "30日涨跌",
@@ -381,8 +381,8 @@
       {
         "name": "谷歌 Alphabet",
         "symbol": "GOOGL",
-        "change": -1.23,
-        "price": "$317.26",
+        "change": 0.37,
+        "price": "$318.45",
         "listed": true,
         "tags": [
           "Gemini大模型",
@@ -397,11 +397,11 @@
         "metrics": [
           {
             "label": "最新价",
-            "value": "$317.26"
+            "value": "$318.45"
           },
           {
             "label": "单日涨跌",
-            "value": "-1.23%"
+            "value": "+0.37%"
           },
           {
             "label": "7日涨跌",
@@ -811,8 +811,8 @@
       {
         "name": "特斯拉",
         "symbol": "TSLA",
-        "change": 0.99,
-        "price": "$349.00",
+        "change": 1.36,
+        "price": "$353.74",
         "listed": true,
         "tags": [
           "FSD自动驾驶",
@@ -824,15 +824,15 @@
         "metrics": [
           {
             "label": "最新价",
-            "value": "$349.00"
+            "value": "$353.74"
           },
           {
             "label": "单日涨跌",
-            "value": "+0.99%"
+            "value": "+1.36%"
           },
           {
             "label": "7日涨跌",
-            "value": "-8.47%"
+            "value": "-7.22%"
           },
           {
             "label": "30日涨跌",
@@ -1786,7 +1786,7 @@
       }
     ]
   },
-  "dataTime": "2026-04-13 18:08 BJT",
+  "dataTime": "2026-04-13 22:12 BJT",
   "_meta": {
     "sourceType": "heavy_analysis",
     "generatedAt": "2026-04-13T14:15:00+08:00",

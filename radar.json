@@ -19,25 +19,25 @@
   "trafficLights": [
     {
       "name": "VIX波动率",
-      "value": "19.23",
+      "value": "20.72",
       "status": "yellow",
       "threshold": "<18绿 / 18-25黄 / >25红"
     },
     {
       "name": "10Y美债收益率",
-      "value": "4.355%",
+      "value": "4.32%",
       "status": "yellow",
       "threshold": "<4.0%绿 / 4.0-4.5%黄 / >4.5%红"
     },
     {
       "name": "布伦特原油",
-      "value": "$101.81",
+      "value": "$100.15",
       "status": "yellow",
       "threshold": "<$90绿 / $90-110黄 / >$110红"
     },
     {
       "name": "美元指数DXY",
-      "value": "99.03",
+      "value": "98.83",
       "status": "green",
       "threshold": "<102绿 / 102-107黄 / >107红"
     },
@@ -49,7 +49,7 @@
     },
     {
       "name": "黄金XAU",
-      "value": "$4,714",
+      "value": "$4,708",
       "status": "red",
       "threshold": "<$2200绿 / $2200-3500黄 / >$3500红"
     },
@@ -62,7 +62,7 @@
   ],
   "riskScore": 80,
   "riskLevel": "high",
-  "riskAdvice": "布伦特$101.81突破百元关口进入黄红交界，WTI $104.79逼近$110红灯——若霍尔木兹封锁实质执行，布伦特将触发红灯；密歇根信心47.6创74年新低，本周GS/JPM财报指引是检验反弹基础的最终裁判。",
+  "riskAdvice": "布伦特$100.15处百元关口黄灯高位，VIX盘中冲至20.72对应上周反弹的信心回吐——若霍尔木兹封锁实质执行推动布伦特突破$110红灯，通胀预期将彻底固化；本周GS/JPM财报指引是检验反弹基础的最终裁判。",
   "monitorTable": [],
   "riskAlerts": [],
   "events": [
@@ -392,10 +392,10 @@
       "footnote": "4/10买入PLTR+590万$/卖出AMD-590万$，近期连续关注CoreWeave(CRWV)和Kodiak AI(KDK)但尚未进入Top10"
     }
   ],
-  "dataTime": "2026-04-13 18:08 BJT",
+  "dataTime": "2026-04-13 22:12 BJT",
   "_meta": {
     "sourceType": "heavy_analysis",
-    "generatedAt": "2026-04-13T18:00:00+08:00",
+    "generatedAt": "2026-04-13T22:05:00+08:00",
     "skillVersion": "v10.6"
   }
 }
