@@ -1,20 +1,20 @@
 {
   "date": "2026-04-13",
-  "updatedAt": "2026-04-13T10:34:46+08:00",
+  "updatedAt": "2026-04-13T14:28:14+08:00",
   "sentiment": {
-    "score": 45,
-    "label": "中性"
+    "score": 32,
+    "label": "偏恐惧"
   },
   "risk": {
-    "score": 90,
+    "score": 80,
     "level": "high"
   },
   "trafficLights": {
     "red": 1,
-    "yellow": 4,
-    "green": 2
+    "yellow": 3,
+    "green": 3
   },
-  "coreEvent": "美伊和平谈判崩溃，特朗普宣布封锁霍尔木兹——油价暴涨撕裂短暂停火假象",
+  "coreEvent": "美伊和谈崩盘·特朗普今晚封锁霍尔木兹——油价暴涨撞上密歇栅74年最低消费者信心",
   "usMarkets": {
     "sp500": {
       "price": 6816.89,
