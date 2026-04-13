@@ -1,0 +1,42 @@
+{
+  "date": "2026-04-14",
+  "updatedAt": "2026-04-14T06:26:58+08:00",
+  "sentiment": {
+    "score": 38,
+    "label": "偏恐惧"
+  },
+  "risk": {
+    "score": 80,
+    "level": "high"
+  },
+  "trafficLights": {
+    "red": 1,
+    "yellow": 3,
+    "green": 3
+  },
+  "coreEvent": "霍尔木兹封锁正式执行·油价跳涨至$102——银行财报季开幕GS超预期，通胀与盈利赛跑",
+  "usMarkets": {
+    "sp500": {
+      "price": 6886.24,
+      "change": 1.02
+    },
+    "nasdaq": {
+      "price": 23183.74,
+      "change": 1.23
+    },
+    "vix": {
+      "price": 19.12,
+      "change": -0.57
+    }
+  },
+  "topMovers": [
+    {
+      "name": "MSFT",
+      "change": 3.64,
+      "reason": ""
+    }
+  ],
+  "smartMoneySummary": "段永平 H&H: 4月9日宣布泡泡玛特sell put策略正式开张，称其IP+…；ARK Invest: 4/10全线买入PLTR共$990万（横跨ARKK/ARKW…；ARK Invest: 4/7-8大举买入TSLA $14.1M+Robinhood…",
+  "actionSummary": "段永平4月9日正式开设泡泡玛特sell put，确认开始左侧布局——关注5月中旬Q1 13F披露是否…",
+  "briefingUrl": "archive/2026-04-14/briefing.md"
+}
