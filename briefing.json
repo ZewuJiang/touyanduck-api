@@ -1,196 +1,196 @@
 {
   "date": "2026-04-14",
-  "timeStatus": {
-    "bjt": "14:01",
-    "est": "02:01",
-    "marketStatus": "美股交易中",
-    "refreshInterval": "每日更新"
-  },
-  "takeaway": "美伊谈判破裂后美军正式【封锁霍尔木兹】，布伦特跳涨6.5%突破【$102】，但上周美股录得2026年【最强反弹周】后周一收盘续涨——GS财报【EPS $17.55超预期】打响银行季，若油价滞留百元上方CPI【4%+】将彻底封死降息窗口",
+  "takeaway": "今日市场由【美伊谈判预期】驱动反弹，纳指+1.23%，但【黄金$4,714红灯】与极度恐惧情绪并存——结构性风险未消。【段永平今日建仓泡泡玛特】是罕见的逆向信号。【TSM 4月16日财报】是本周半导体方向关键验证节点，高盛预期营收+45%将提供AI资本开支真实锚点。",
   "coreEvent": {
-    "title": "霍尔木兹封锁正式执行·油价跳涨至$102——银行财报季开幕GS超预期，通胀与盈利赛跑",
+    "title": "美伊霍尔木兹海峡谈判阶段缓和：风险资产反弹但地缘溢价未消",
     "chain": [
       {
-        "title": "美军封锁霍尔木兹，伊朗港口海上交通中断",
-        "brief": "4月13日10AM ET起美国海军封锁伊朗港口，布伦特跳涨6.5%至$101.87，霍尔木兹日均2000万桶石油运输面临实质中断，全球供应缺口可达800万桶/日",
-        "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/04/13/trump-hormuz-blockade-oil-shock-china-iran-india-vessels-peace-talks.html",
-        "source_count": 5
-      },
-      {
-        "title": "布伦特飙至$102，WTI突破$104，汽油创57年最大月涨",
-        "brief": "封锁消息推动布伦特盘中突破$102，现货Dated Brent曾触及$126，美国全国汽油均价升至$4.12/加仑——JPMorgan警告若封锁持续可达$5",
-        "source": "CNN",
-        "url": "https://www.cnn.com/2026/04/13/business/oil-prices-us-blockade-hormuz-intl",
-        "source_count": 4
-      },
-      {
-        "title": "高盛Q1 EPS $17.55超预期，ROE达19.8%开门红",
-        "brief": "GS率先发布Q1财报，EPS $17.55大幅超市场预期，年化ROE 19.8%，交易业务强势——为本周JPM/BAC/MS密集财报季定下积极基调",
-        "source": "Goldman Sachs",
-        "url": "https://www.goldmansachs.com/pressroom/press-releases/2026/2026-04-13-q1-results",
-        "source_count": 3
-      },
-      {
-        "title": "Anthropic年化营收突破$300亿反超OpenAI",
-        "brief": "Anthropic年化收入达$300亿首次超越OpenAI的$250亿，4个月增长3.3倍——AI变现赛道格局逆转，企业端需求远超消费端",
-        "source": "36氪",
-        "url": "https://www.36kr.com/p/3760901244404227",
-        "source_count": 4
-      },
-      {
-        "title": "4月22日停火到期——下一个地缘风险节点",
-        "brief": "当前临时停火将于4月22日到期，若届时无新协议，封锁可能全面升级，油价或冲击$110红线",
-        "source": "CoinAlertNews",
-        "url": "https://coinalertnews.com/news/2026/04/13/strait-of-hormuz-blockade-oil-inflation-impact",
+        "title": "KOSPI昨日熔断今日反弹3.25%",
+        "brief": "韩股昨因霍尔木兹封锁暴跌7.28%触发熔断，今日美伊重启谈判信号推动急速反弹至5998",
+        "source": "Korea Times",
+        "url": "https://www.koreatimes.co.kr",
         "source_count": 2
+      },
+      {
+        "title": "纳指+1.23%领涨，Oracle单日+12%",
+        "brief": "软件板块全线走强，Oracle创9月以来最大单日涨幅，微软+3.64%",
+        "source": "Bloomberg",
+        "url": "https://www.bloomberg.com",
+        "source_count": 2
+      },
+      {
+        "title": "布伦特亚盘曾触$110后回落至$99",
+        "brief": "霍尔木兹封锁导致油价剧烈波动，最终结算$99.36，地缘溢价持续",
+        "source": "Saxo Bank",
+        "url": "https://www.home.saxo",
+        "source_count": 2
+      },
+      {
+        "title": "黄金再创新高$4,714同比+46%",
+        "brief": "避险+央行购金双轮驱动，黄金与股市同步上涨的分裂格局持续",
+        "source": "TradingEconomics",
+        "url": "https://tradingeconomics.com",
+        "source_count": 2
+      },
+      {
+        "title": "摩根大通等四大行今日发布Q1财报",
+        "brief": "JPM EPS预期$5.46，消费信贷健康度与贸易战影响是核心观测点",
+        "source": "FMP Earnings Calendar",
+        "url": "https://financialmodelingprep.com",
+        "source_count": 1
       }
     ]
   },
   "globalReaction": [
     {
       "name": "标普500",
-      "value": "6,892.19",
+      "value": "+1.02%",
       "direction": "up",
-      "note": "盘中微涨+0.09%延续反弹态势"
+      "note": "年内跌幅收复"
     },
     {
-      "name": "纳斯达克",
-      "value": "23,183.74",
+      "name": "日经225",
+      "value": "+2.43%",
       "direction": "up",
-      "note": "纳指盘中延续涨势科技股领跑"
+      "note": "美伊谈判预期提振"
     },
     {
-      "name": "布伦特原油",
-      "value": "$98.88",
-      "direction": "down",
-      "note": "回落至$99区间封锁溢价消退"
+      "name": "KOSPI",
+      "value": "+3.25%",
+      "direction": "up",
+      "note": "熔断后急速反弹"
     },
     {
       "name": "黄金XAU",
-      "value": "$4,764",
+      "value": "$4,714",
       "direction": "up",
-      "note": "连涨三周突破$4760创历史新高"
+      "note": "同比+46%红灯"
+    },
+    {
+      "name": "布伦特原油",
+      "value": "$99.36",
+      "direction": "up",
+      "note": "霍尔木兹溢价"
     },
     {
       "name": "10Y美债",
-      "value": "4.29%",
-      "direction": "down",
-      "note": "收益率小幅回落至黄灯区"
-    },
-    {
-      "name": "BTC",
-      "value": "$74,446",
-      "direction": "up",
-      "note": "盘中持稳$74k上方微幅波动"
+      "value": "4.33%",
+      "direction": "flat",
+      "note": "避险与通胀博弈"
     }
   ],
   "coreJudgments": [
     {
-      "title": "油价滞留$100+将固化通胀至4%+，美联储年内降息概率持续压缩",
-      "confidence": 85,
-      "logic": "霍尔木兹实质封锁 → 布伦特$102+/WTI$104+持续，汽油月涨创57年纪录 → 3月CPI已达3.3%，4月或突破4%，5月会议hold概率83%",
-      "keyActor": "Jerome Powell",
+      "title": "美伊谈判驱动反弹不可持续",
+      "confidence": 65,
+      "logic": "谈判预期→风险偏好短暂回升→若谈判破裂或无实质进展→市场将面临急速回调",
+      "keyActor": "美伊双方谈判代表",
       "references": [
         {
-          "name": "primerates.com",
-          "summary": "5月会议hold概率83%，6月降息仅28%，年内最多一次降息（9月48%概率），Morgan Stanley预测全年零降息",
-          "url": "https://primerates.com/primerate/fed-rate-forecast-2026/"
+          "name": "CNN美伊谈判报道",
+          "summary": "特朗普释放谈判信号，但历史上类似情形多次出现后续反复",
+          "url": "https://edition.cnn.com"
         }
       ],
-      "probability": "高可能性",
-      "trend": "上升"
+      "probability": 65,
+      "trend": "down"
     },
     {
-      "title": "银行财报季决定反弹成色——GS开门红但能源成本指引是本周定价关键",
-      "confidence": 75,
-      "logic": "GS EPS $17.55超预期+ROE 19.8% → 但JPM/BAC/MS本周跟进，企业能源成本/坏账指引若悲观 → 上周+3.6%反弹面临重新定价",
-      "keyActor": "Jamie Dimon",
-      "references": [
-        {
-          "name": "Goldman Sachs",
-          "summary": "Q1 EPS $17.55大幅超预期，交易业务强势带动ROE达19.8%",
-          "url": "https://www.goldmansachs.com/pressroom/press-releases/2026/2026-04-13-q1-results"
-        }
-      ],
-      "probability": "中可能性",
-      "trend": "稳定"
-    },
-    {
-      "title": "AI资本开支完全脱敏地缘风险，Anthropic反超OpenAI验证企业端变现拐点",
+      "title": "TSM财报是AI资本开支真实锚点",
       "confidence": 80,
-      "logic": "Anthropic营收$300亿反超OpenAI+CoreWeave数十亿协议 → 企业端AI支出加速与消费端分化 → 算力基建链（NVDA/CRWV/TSM）可在宏观压力中独立跑赢",
-      "keyActor": "Dario Amodei",
+      "logic": "TSM 3月营收同比+45%→4月16日季报验证台积电全年指引→决定半导体板块方向",
+      "keyActor": "台积电 CC Wei",
       "references": [
         {
-          "name": "ByteIota",
-          "summary": "Anthropic年化收入$300亿反超OpenAI的$250亿，4个月增长3.3倍，企业API需求爆发",
-          "url": "https://byteiota.com/anthropic-hits-30b-revenue-overtakes-openai-in-2026/"
+          "name": "Digitimes半导体Q1综述",
+          "summary": "台积电3月营收同比+45%，先进制程产能利用率接近满载",
+          "url": "https://www.digitimes.com"
         }
       ],
-      "probability": "高可能性",
-      "trend": "上升"
+      "probability": 80,
+      "trend": "up"
+    },
+    {
+      "title": "黄金红灯警示系统风险定价分裂",
+      "confidence": 75,
+      "logic": "黄金$4,714突破红灯→与股市同步上涨→市场同时对冲和追涨→分裂格局不可持续，下行风险大于上行",
+      "keyActor": "全球央行+避险资金",
+      "references": [
+        {
+          "name": "TradingEconomics黄金数据",
+          "summary": "黄金同比+46%，较$2200绿灯阈值高出2倍以上",
+          "url": "https://tradingeconomics.com/commodity/gold"
+        }
+      ],
+      "probability": 75,
+      "trend": "up"
     }
   ],
   "actionHints": [
     {
       "type": "watch",
-      "content": "段永平4月9日正式开设泡泡玛特sell put，确认开始左侧布局——关注5月中旬Q1 13F披露是否出现正式持仓",
-      "reason": "信号链完整：不碰→深度研究→收回说法→Westfield调研→卖put，信号极强但尚未建仓确认"
+      "content": "4月16日TSM财报：若Q1营收指引超预期且维持全年指引，AI基础设施板块将获方向性确认",
+      "reason": "当前AI资本开支是市场核心争议，TSM是最直接的验证节点"
     }
   ],
-  "sentimentScore": 40,
+  "sentimentScore": 38,
   "sentimentLabel": "偏恐惧",
   "marketSummaryPoints": [
-    "周一美股顶住霍尔木兹封锁利空收涨（SPX+1.02%/NDX+1.23%），GS超预期财报+MSFT领涨+3.64%提供支撑，但亚太全线下跌（KOSPI-0.86%/HSI-0.90%/日经-0.74%）",
-    "密歇根消费者信心47.6创74年新低叠加3月CPI 3.3%（环比+0.9%创四年最大），美伊封锁持续将通胀推向4%+——stagflation交易正在定价中",
-    "AI产业链完全脱敏：Anthropic营收$300亿反超OpenAI，CoreWeave签约第九家AI模型商，算力资本开支未因战争退潮",
-    "4月22日停火到期为下一关键节点——若无新协议，布伦特可能冲击$110红线，全年降息预期将彻底消失"
+    "纳指+1.23%领涨，MSFT+3.64%、Oracle+12%带动软件板块全面走强",
+    "黄金$4,714创新高亮红灯，与股市反弹并存显示市场高度分裂",
+    "KOSPI昨日熔断今日反弹3.25%，霍尔木兹地缘溢价推升布伦特至$99",
+    "半导体超级周期：TSM 3月营收+45%，AMD MI400（432GB HBM4）正面挑战NVDA",
+    "段永平今日出手泡泡玛特（卖Put建仓），称研究数天久违的兴奋感"
   ],
   "smartMoney": [
     {
-      "source": "段永平 H&H",
-      "action": "4月9日宣布泡泡玛特sell put策略正式开张，称其IP+门店网络+管理团队三重壁垒远超想象",
+      "source": "段永平 · H&H",
+      "action": "今日首次建仓泡泡玛特：采用卖出看跌期权方式，称已研究连续数天，从历史高点腰斩位逆向布局",
       "signal": "bullish"
     },
     {
-      "source": "ARK Invest",
-      "action": "4/10全线买入PLTR共$990万（横跨ARKK/ARKW/ARKQ/ARKF/ARKX），同时清仓AMD约$1090万",
+      "source": "ARK · Cathie Wood",
+      "action": "买入Palantir约$1100万，同步抛售AMD约$1000万，从传统AI芯片转向AI数据软件",
       "signal": "bullish"
     },
     {
-      "source": "ARK Invest",
-      "action": "4/7-8大举买入TSLA $14.1M+Robinhood $12.5M，同时卖出Roku $5.4M+Teradyne $14.8M——押注自动驾驶与金融科技",
-      "signal": "bullish"
+      "source": "伯克希尔 · Greg Abel",
+      "action": "持续增持Chubb保险至3430万股，Q4增持CVX+6.6%，整体防御性配置应对地缘不确定性",
+      "signal": "neutral"
     }
   ],
   "topHoldings": [
     {
-      "name": "伯克希尔",
-      "holdings": "AAPL 22.6% | AXP 20.5% | BAC 10.4% | KO 10.2% | CVX 7.2% · 现金$3733亿"
+      "name": "巴菲特 · 伯克希尔（AUM $274B）",
+      "holdings": "AAPL 22.6% | AXP 20.5% | BAC 10.4% | KO 10.2% | CVX 7.2% · 现金$3,733亿 · Greg Abel首次主导季度"
     },
     {
-      "name": "段永平",
-      "holdings": "AAPL 50.3% | BRK.B 20.6% | NVDA 7.7% | PDD 7.5% | GOOG 3.3% · 泡泡玛特观察中"
+      "name": "段永平 · H&H（AUM $18B）",
+      "holdings": "AAPL 50.3% | BRK.B 20.6% | NVDA 7.7% | PDD 7.5% | GOOG 3.3% · Q4大幅增持NVDA+1110%/TSM+370%"
     },
     {
-      "name": "ARK旗舰",
-      "holdings": "TSLA 10.5% | CRSP 6.3% | TEM 5.0% | SHOP 4.7% | COIN 4.3%"
+      "name": "Cathie Wood · ARK旗舰（AUM $6.8B）",
+      "holdings": "TSLA 10.5% | CRSP 6.3% | TEM 5.0% | SHOP 4.7% | COIN 4.3% · 年初至今-11%，持续买入PLTR+TSLA"
     }
   ],
   "riskPoints": [
-    "布伦特$101.87处黄灯高位逼近$110红线，若霍尔木兹封锁4/22到期后升级执行，油价系统性突破$110将使CPI突破4%、降息窗口彻底关闭",
-    "黄金$4,741持续亮红灯（>$3,500阈值），避险情绪高涨但与HY信用利差绿灯形成背离——市场对系统性风险定价存在内部矛盾",
-    "本周银行财报密集（JPM/BAC/MS/NFLX），若能源成本上升反映在悲观指引中，上周+3.6%反弹成果将面临重定价考验"
+    "美伊谈判若破裂：布伦特可能重返$110+，地缘溢价将压制风险资产反弹基础",
+    "黄金红灯+信用利差黄灯：系统性避险情绪若集中爆发，高估值科技股首当其冲"
   ],
-  "riskNote": "布伦特$101.87黄灯高位叠加黄金$4,741红灯——霍尔木兹封锁若4/22后升级，油价系统性突破$110将使通胀彻底反弹；大银行财报本周密集落地是最关键定价锚。",
-  "dataTime": "2026-04-14 14:37 BJT",
-  "voiceText": "今日投研鸭简报，2026年4月14日，周二。重大事件：美伊谈判破裂后，美军正式执行霍尔木兹海峡封锁，但油价出现回落。布伦特原油回落至97.91美元，封锁溢价消退。美股周一收涨，标普涨1.02%至6886点，纳斯达克涨1.23%，微软领涨3.64%。亚太市场今日强势反弹，日经涨2.52%，韩国KOSPI涨3.11%，恒生科技涨1.43%。黄金突破4768美元创历史新高。高盛Q1财报每股收益17.55美元大幅超预期。Anthropic年化营收突破300亿美元首次反超OpenAI。ARK本周大买Palantir990万美元同时清仓AMD。段永平4月9日正式开设泡泡玛特卖出看跌期权。红绿灯：黄金红灯，VIX、10Y美债、布伦特三黄灯，DXY、信用利差、人民币三绿灯。风险评分80分高风险。本周重点：周三中国一季度GDP、台积电和ASML财报，4月22日停火到期。",
-  "_meta": {
-    "sourceType": "heavy_analysis",
-    "generatedAt": "2026-04-14T14:01:00+08:00",
-    "skillVersion": "v10.6"
+  "riskNote": "核心风险点：地缘情绪逆转（美伊谈判不确定性）与黄金红灯系统风险信号并存。本周TSM财报（4/16）和TSLA财报（4/22）将提供基本面定锚。",
+  "dataTime": "2026-04-14 15:37 BJT",
+  "timeStatus": {
+    "marketStatus": "美股已收盘",
+    "refreshInterval": "每日更新",
+    "nextUpdate": "2026-04-15 BJT"
   },
+  "audioUrl": "cloud://cloud1-3g6wj06h84f38ea8.636c-cloud1-3g6wj06h84f38ea8-1418169528/audio/briefing-2026-04-14.mp3",
   "audioFile": "briefing-2026-04-14.mp3",
-  "audioUrl": "cloud://cloud1-3g6wj06h84f38ea8.636c-cloud1-3g6wj06h84f38ea8-1418169528/audio/briefing-2026-04-14.mp3"
+  "voiceText": "今日投研鸭简报，2026年4月14日。美伊霍尔木兹谈判预期提振市场，纳指涨1.23%，KOSPI从昨日熔断反弹3.25%。但黄金冲上4714美元红灯亮起，系统性风险未消。段永平今日出手泡泡玛特，逆向建仓腰斩标的。TSM本周四财报是半导体方向关键验证。整体风险评分90分高位，保持关注。",
+  "_meta": {
+    "skillVersion": "v10.6",
+    "sourceType": "heavy_analysis",
+    "generatedAt": "2026-04-14T15:37:12+08:00",
+    "dataDate": "2026-04-14"
+  }
 }
