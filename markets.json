@@ -270,7 +270,7 @@
         4765.38,
         4749.05,
         4740.15,
-        4768.82
+        4767.41
       ]
     },
     {
@@ -298,7 +298,7 @@
         97.93,
         95.62,
         97.96,
-        97.0
+        97.26
       ]
     },
     {
@@ -379,32 +379,27 @@
   "gics": [
     {
       "name": "信息技术 XLK",
-      "change": 1.23,
+      "change": 2.1,
       "etf": "XLK"
     },
     {
+      "name": "金融 XLF",
+      "change": 1.75,
+      "etf": "XLF"
+    },
+    {
       "name": "非必需消费 XLY",
-      "change": 1.02,
+      "change": 0.91,
       "etf": "XLY"
     },
     {
       "name": "通信服务 XLC",
-      "change": 0.91,
+      "change": 0.76,
       "etf": "XLC"
     },
     {
-      "name": "原材料 XLB",
-      "change": 0.91,
-      "etf": "XLB"
-    },
-    {
-      "name": "能源 XLE",
-      "change": 0.63,
-      "etf": "XLE"
-    },
-    {
       "name": "工业 XLI",
-      "change": 0.63,
+      "change": 0.71,
       "etf": "XLI"
     },
     {
@@ -414,30 +409,35 @@
     },
     {
       "name": "医疗保健 XLV",
-      "change": 0.19,
+      "change": 0.45,
       "etf": "XLV"
     },
     {
-      "name": "必需消费 XLP",
-      "change": 0.12,
-      "etf": "XLP"
+      "name": "原材料 XLB",
+      "change": 0.44,
+      "etf": "XLB"
     },
     {
-      "name": "金融 XLF",
-      "change": 0.0,
-      "etf": "XLF"
+      "name": "能源 XLE",
+      "change": 0.3,
+      "etf": "XLE"
     },
     {
       "name": "公用事业 XLU",
-      "change": 0.0,
+      "change": -0.57,
       "etf": "XLU"
+    },
+    {
+      "name": "必需消费 XLP",
+      "change": -1.0,
+      "etf": "XLP"
     }
   ],
-  "gicsInsight": "科技XLK+1.23%领涨反映AI主线韧性，能源XLE仅+0.63%说明油价跳涨已被充分预期——金融XLF持平，市场等待本周银行财报指引后再定价",
-  "dataTime": "2026-04-14 10:35 BJT",
+  "gicsInsight": "科技XLK+2.10%和金融XLF+1.75%双领涨，银行财报季开门红（GS超预期）直接提振金融板块——防御性板块（公用事业/必需消费）分化下跌，资金偷好成长股而非防御",
+  "dataTime": "2026-04-14 14:37 BJT",
   "_meta": {
     "sourceType": "heavy_analysis",
-    "generatedAt": "2026-04-14T10:00:00+08:00",
+    "generatedAt": "2026-04-14T14:01:00+08:00",
     "skillVersion": "v10.6"
   }
 }
